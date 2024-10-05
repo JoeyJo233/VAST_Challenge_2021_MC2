@@ -1,0 +1,1568 @@
+Person 1,Person 2,Location,Overlap Start,Overlap End
+Ada Campo-Corrente,Elsa Orilla,Coffee Snack,2014-01-07 07:19:01,2014-01-07 07:19:44
+Elsa Orilla,Ada Campo-Corrente,Coffee Snack,2014-01-07 07:19:01,2014-01-07 07:19:44
+Isia Vann,Loreto Bodrogi,Coffee Snack,2014-01-07 07:30:01,2014-01-07 07:30:44
+Loreto Bodrogi,Isia Vann,Coffee Snack,2014-01-07 07:30:01,2014-01-07 07:30:44
+Adra Nubarron,Edvard Vann,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:25:23
+Adra Nubarron,Hennie Osvaldo,Katerina's Café,2014-01-10 07:24:01,2014-01-10 07:25:23
+Adra Nubarron,Loreto Bodrogi,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:25:23
+Adra Nubarron,Varja Lagos,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:23:23
+Adra Nubarron,Loreto Bodrogi,Katerina's Café,2014-01-13 07:31:01,2014-01-13 07:32:23
+Adra Nubarron,Minke Mies,Katerina's Café,2014-01-13 07:32:01,2014-01-13 07:32:23
+Adra Nubarron,Edvard Vann,Katerina's Café,2014-01-15 07:30:01,2014-01-15 07:30:23
+Axel Calzas,Varja Lagos,Katerina's Café,2014-01-11 12:47:01,2014-01-11 12:47:07
+Axel Calzas,Vira Frente,Katerina's Café,2014-01-11 12:47:01,2014-01-11 12:51:20
+Bertrand Ovan,Lidelse Dedos,Katerina's Café,2014-01-07 18:47:29,2014-01-07 18:49:30
+Bertrand Ovan,Lucas Alcazar,Katerina's Café,2014-01-12 18:43:39,2014-01-12 18:45:40
+Bertrand Ovan,Kare Orilla,Katerina's Café,2014-01-14 18:50:15,2014-01-14 18:51:21
+Bertrand Ovan,Linnea Bergen,Katerina's Café,2014-01-15 19:10:51,2014-01-15 19:12:02
+Bertrand Ovan,Lucas Alcazar,Katerina's Café,2014-01-16 18:46:33,2014-01-16 18:47:40
+Birgitta Frente,Kanon Herrero,Katerina's Café,2014-01-06 12:34:01,2014-01-06 12:35:23
+Brand Tempestad,Hennie Osvaldo,Katerina's Café,2014-01-06 07:26:01,2014-01-06 07:26:36
+Brand Tempestad,Inga Ferro,Katerina's Café,2014-01-06 07:27:01,2014-01-06 07:29:36
+Brand Tempestad,Hennie Osvaldo,Katerina's Café,2014-01-07 07:44:01,2014-01-07 07:45:53
+Brand Tempestad,Varja Lagos,Katerina's Café,2014-01-07 07:45:01,2014-01-07 07:45:53
+Brand Tempestad,Hennie Osvaldo,Katerina's Café,2014-01-08 07:35:01,2014-01-08 07:37:36
+Brand Tempestad,Varja Lagos,Katerina's Café,2014-01-08 07:34:01,2014-01-08 07:36:23
+Brand Tempestad,Isia Vann,Katerina's Café,2014-01-10 07:16:01,2014-01-10 07:16:53
+Brand Tempestad,Stenig Fusil,Katerina's Café,2014-01-13 07:16:01,2014-01-13 07:19:53
+Brand Tempestad,Sven Flecha,Katerina's Café,2014-01-13 07:15:01,2014-01-13 07:15:53
+Brand Tempestad,Hennie Osvaldo,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:24:53
+Brand Tempestad,Isia Vann,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:24:53
+Brand Tempestad,Stenig Fusil,Katerina's Café,2014-01-15 07:21:01,2014-01-15 07:24:53
+Brand Tempestad,Felix Resumir,Katerina's Café,2014-01-16 07:35:01,2014-01-16 07:37:23
+Brand Tempestad,Loreto Bodrogi,Katerina's Café,2014-01-16 07:34:01,2014-01-16 07:36:36
+Brand Tempestad,Felix Resumir,Katerina's Café,2014-01-17 07:40:01,2014-01-17 07:40:53
+Brand Tempestad,Inga Ferro,Katerina's Café,2014-01-17 07:38:01,2014-01-17 07:40:36
+Edvard Vann,Sven Flecha,Katerina's Café,2014-01-06 07:03:01,2014-01-06 07:07:48
+Edvard Vann,Stenig Fusil,Katerina's Café,2014-01-09 07:12:01,2014-01-09 07:16:35
+Edvard Vann,Adra Nubarron,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:25:23
+Edvard Vann,Hennie Osvaldo,Katerina's Café,2014-01-10 07:24:01,2014-01-10 07:26:36
+Edvard Vann,Loreto Bodrogi,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:25:36
+Edvard Vann,Varja Lagos,Katerina's Café,2014-01-10 07:21:01,2014-01-10 07:23:23
+Edvard Vann,Hennie Osvaldo,Katerina's Café,2014-01-14 07:11:01,2014-01-14 07:12:48
+Edvard Vann,Isia Vann,Katerina's Café,2014-01-14 07:10:01,2014-01-14 07:12:36
+Edvard Vann,Stenig Fusil,Katerina's Café,2014-01-14 07:10:01,2014-01-14 07:12:48
+Edvard Vann,Orhan Strum,Katerina's Café,2014-01-14 11:55:01,2014-01-14 11:55:23
+Edvard Vann,Adra Nubarron,Katerina's Café,2014-01-15 07:30:01,2014-01-15 07:30:23
+Edvard Vann,Stenig Fusil,Katerina's Café,2014-01-16 07:44:01,2014-01-16 07:46:48
+Edvard Vann,Hennie Osvaldo,Katerina's Café,2014-01-17 07:49:01,2014-01-17 07:49:48
+Edvard Vann,Isia Vann,Katerina's Café,2014-01-17 07:44:01,2014-01-17 07:46:36
+Edvard Vann,Marin Onda,Katerina's Café,2014-01-19 12:32:01,2014-01-19 12:35:04
+Elsa Orilla,Linnea Bergen,Katerina's Café,2014-01-11 18:20:01,2014-01-11 18:22:02
+Elsa Orilla,Marin Onda,Katerina's Café,2014-01-11 18:14:01,2014-01-11 18:20:04
+Felix Resumir,Loreto Bodrogi,Katerina's Café,2014-01-06 07:46:01,2014-01-06 07:46:23
+Felix Resumir,Minke Mies,Katerina's Café,2014-01-06 07:44:01,2014-01-06 07:44:53
+Felix Resumir,Varja Lagos,Katerina's Café,2014-01-06 07:44:01,2014-01-06 07:45:23
+Felix Resumir,Lidelse Dedos,Katerina's Café,2014-01-06 12:27:01,2014-01-06 12:27:23
+Felix Resumir,Inga Ferro,Katerina's Café,2014-01-07 07:37:01,2014-01-07 07:39:23
+Felix Resumir,Inga Ferro,Katerina's Café,2014-01-09 07:46:01,2014-01-09 07:48:23
+Felix Resumir,Minke Mies,Katerina's Café,2014-01-09 07:46:01,2014-01-09 07:46:53
+Felix Resumir,Sven Flecha,Katerina's Café,2014-01-10 07:38:01,2014-01-10 07:40:23
+Felix Resumir,Minke Mies,Katerina's Café,2014-01-15 07:46:01,2014-01-15 07:47:53
+Felix Resumir,Brand Tempestad,Katerina's Café,2014-01-16 07:35:01,2014-01-16 07:37:23
+Felix Resumir,Loreto Bodrogi,Katerina's Café,2014-01-16 07:35:01,2014-01-16 07:36:36
+Felix Resumir,Brand Tempestad,Katerina's Café,2014-01-17 07:40:01,2014-01-17 07:40:53
+Felix Resumir,Inga Ferro,Katerina's Café,2014-01-17 07:40:01,2014-01-17 07:40:36
+Hennie Osvaldo,Brand Tempestad,Katerina's Café,2014-01-06 07:26:01,2014-01-06 07:26:36
+Hennie Osvaldo,Brand Tempestad,Katerina's Café,2014-01-07 07:44:01,2014-01-07 07:45:53
+Hennie Osvaldo,Varja Lagos,Katerina's Café,2014-01-07 07:45:01,2014-01-07 07:46:36
+Hennie Osvaldo,Lucas Alcazar,Katerina's Café,2014-01-07 19:05:01,2014-01-07 19:05:40
+Hennie Osvaldo,Brand Tempestad,Katerina's Café,2014-01-08 07:35:01,2014-01-08 07:37:36
+Hennie Osvaldo,Varja Lagos,Katerina's Café,2014-01-08 07:35:01,2014-01-08 07:36:23
+Hennie Osvaldo,Adra Nubarron,Katerina's Café,2014-01-10 07:24:01,2014-01-10 07:25:23
+Hennie Osvaldo,Edvard Vann,Katerina's Café,2014-01-10 07:24:01,2014-01-10 07:26:36
+Hennie Osvaldo,Loreto Bodrogi,Katerina's Café,2014-01-10 07:24:01,2014-01-10 07:25:36
+Hennie Osvaldo,Kare Orilla,Katerina's Café,2014-01-11 18:46:01,2014-01-11 18:47:06
+Hennie Osvaldo,Lucas Alcazar,Katerina's Café,2014-01-12 18:46:01,2014-01-12 18:47:40
+Hennie Osvaldo,Kanon Herrero,Katerina's Café,2014-01-13 19:29:01,2014-01-13 19:31:02
+Hennie Osvaldo,Marin Onda,Katerina's Café,2014-01-13 19:28:01,2014-01-13 19:29:04
+Hennie Osvaldo,Edvard Vann,Katerina's Café,2014-01-14 07:11:01,2014-01-14 07:12:48
+Hennie Osvaldo,Isia Vann,Katerina's Café,2014-01-14 07:11:01,2014-01-14 07:12:36
+Hennie Osvaldo,Stenig Fusil,Katerina's Café,2014-01-14 07:11:01,2014-01-14 07:13:36
+Hennie Osvaldo,Brand Tempestad,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:24:53
+Hennie Osvaldo,Isia Vann,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:25:36
+Hennie Osvaldo,Stenig Fusil,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:25:36
+Hennie Osvaldo,Lucas Alcazar,Katerina's Café,2014-01-16 18:43:01,2014-01-16 18:46:05
+Hennie Osvaldo,Edvard Vann,Katerina's Café,2014-01-17 07:49:01,2014-01-17 07:49:48
+Hennie Osvaldo,Lucas Alcazar,Katerina's Café,2014-01-17 19:16:01,2014-01-17 19:17:05
+Hennie Osvaldo,Inga Ferro,Katerina's Café,2014-01-18 18:35:01,2014-01-18 18:36:45
+Hideki Cocinaro,Isak Baza,Katerina's Café,2014-01-08 12:14:01,2014-01-08 12:16:23
+Hideki Cocinaro,Ingrid Barranco,Katerina's Café,2014-01-10 12:24:01,2014-01-10 12:25:23
+Inga Ferro,Brand Tempestad,Katerina's Café,2014-01-06 07:27:01,2014-01-06 07:29:36
+Inga Ferro,Felix Resumir,Katerina's Café,2014-01-07 07:37:01,2014-01-07 07:39:23
+Inga Ferro,Loreto Bodrogi,Katerina's Café,2014-01-08 07:18:01,2014-01-08 07:19:36
+Inga Ferro,Stenig Fusil,Katerina's Café,2014-01-08 07:18:01,2014-01-08 07:19:36
+Inga Ferro,Felix Resumir,Katerina's Café,2014-01-09 07:46:01,2014-01-09 07:48:23
+Inga Ferro,Minke Mies,Katerina's Café,2014-01-09 07:46:01,2014-01-09 07:46:53
+Inga Ferro,Loreto Bodrogi,Katerina's Café,2014-01-14 07:33:01,2014-01-14 07:33:36
+Inga Ferro,Sven Flecha,Katerina's Café,2014-01-14 07:33:01,2014-01-14 07:33:53
+Inga Ferro,Varja Lagos,Katerina's Café,2014-01-14 07:33:01,2014-01-14 07:34:23
+Inga Ferro,Minke Mies,Katerina's Café,2014-01-16 08:01:01,2014-01-16 08:01:53
+Inga Ferro,nan nan,Katerina's Café,2014-01-16 11:32:26,2014-01-16 11:33:18
+Inga Ferro,Brand Tempestad,Katerina's Café,2014-01-17 07:38:01,2014-01-17 07:40:36
+Inga Ferro,Felix Resumir,Katerina's Café,2014-01-17 07:40:01,2014-01-17 07:40:36
+Inga Ferro,Hennie Osvaldo,Katerina's Café,2014-01-18 18:35:01,2014-01-18 18:36:45
+Ingrid Barranco,Hideki Cocinaro,Katerina's Café,2014-01-10 12:24:01,2014-01-10 12:25:23
+Ingrid Barranco,Varja Lagos,Katerina's Café,2014-01-18 12:44:01,2014-01-18 12:45:07
+Isak Baza,Loreto Bodrogi,Katerina's Café,2014-01-06 12:01:01,2014-01-06 12:03:23
+Isak Baza,Hideki Cocinaro,Katerina's Café,2014-01-08 12:14:01,2014-01-08 12:16:23
+Isia Vann,Stenig Fusil,Katerina's Café,2014-01-06 07:15:01,2014-01-06 07:17:36
+Isia Vann,Sven Flecha,Katerina's Café,2014-01-09 07:30:01,2014-01-09 07:32:36
+Isia Vann,Brand Tempestad,Katerina's Café,2014-01-10 07:16:01,2014-01-10 07:16:53
+Isia Vann,Loreto Bodrogi,Katerina's Café,2014-01-13 07:33:01,2014-01-13 07:33:36
+Isia Vann,Minke Mies,Katerina's Café,2014-01-13 07:33:01,2014-01-13 07:35:36
+Isia Vann,Edvard Vann,Katerina's Café,2014-01-14 07:10:01,2014-01-14 07:12:36
+Isia Vann,Hennie Osvaldo,Katerina's Café,2014-01-14 07:11:01,2014-01-14 07:12:36
+Isia Vann,Stenig Fusil,Katerina's Café,2014-01-14 07:10:01,2014-01-14 07:12:36
+Isia Vann,Orhan Strum,Katerina's Café,2014-01-14 11:57:01,2014-01-14 11:58:23
+Isia Vann,nan nan,Katerina's Café,2014-01-14 11:57:01,2014-01-14 11:59:03
+Isia Vann,Brand Tempestad,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:24:53
+Isia Vann,Hennie Osvaldo,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:25:36
+Isia Vann,Stenig Fusil,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:25:36
+Isia Vann,Edvard Vann,Katerina's Café,2014-01-17 07:44:01,2014-01-17 07:46:36
+Isia Vann,Minke Mies,Katerina's Café,2014-01-18 18:39:01,2014-01-18 18:40:45
+Kanon Herrero,Birgitta Frente,Katerina's Café,2014-01-06 12:34:01,2014-01-06 12:35:23
+Kanon Herrero,Vira Frente,Katerina's Café,2014-01-11 12:40:01,2014-01-11 12:41:02
+Kanon Herrero,Hennie Osvaldo,Katerina's Café,2014-01-13 19:29:01,2014-01-13 19:31:02
+Kanon Herrero,Marin Onda,Katerina's Café,2014-01-13 19:29:01,2014-01-13 19:29:04
+Kanon Herrero,Kare Orilla,Katerina's Café,2014-01-15 18:52:01,2014-01-15 18:54:02
+Kanon Herrero,Kare Orilla,Katerina's Café,2014-01-16 19:13:01,2014-01-16 19:15:02
+Kanon Herrero,Linnea Bergen,Katerina's Café,2014-01-16 19:14:01,2014-01-16 19:15:02
+Kare Orilla,Lidelse Dedos,Katerina's Café,2014-01-06 19:01:01,2014-01-06 19:04:05
+Kare Orilla,Hennie Osvaldo,Katerina's Café,2014-01-11 18:46:01,2014-01-11 18:47:06
+Kare Orilla,Bertrand Ovan,Katerina's Café,2014-01-14 18:50:15,2014-01-14 18:51:21
+Kare Orilla,Kanon Herrero,Katerina's Café,2014-01-15 18:52:01,2014-01-15 18:54:02
+Kare Orilla,Kanon Herrero,Katerina's Café,2014-01-16 19:13:01,2014-01-16 19:15:02
+Kare Orilla,Linnea Bergen,Katerina's Café,2014-01-16 19:14:01,2014-01-16 19:15:21
+Lidelse Dedos,Felix Resumir,Katerina's Café,2014-01-06 12:27:01,2014-01-06 12:27:23
+Lidelse Dedos,Kare Orilla,Katerina's Café,2014-01-06 19:01:01,2014-01-06 19:04:05
+Lidelse Dedos,Bertrand Ovan,Katerina's Café,2014-01-07 18:47:29,2014-01-07 18:49:30
+Lidelse Dedos,Linnea Bergen,Katerina's Café,2014-01-08 19:47:01,2014-01-08 19:47:02
+Lidelse Dedos,Lucas Alcazar,Katerina's Café,2014-01-11 18:53:01,2014-01-11 18:54:05
+Lidelse Dedos,Lucas Alcazar,Katerina's Café,2014-01-13 12:25:01,2014-01-13 12:28:23
+Lidelse Dedos,Marin Onda,Katerina's Café,2014-01-18 18:21:01,2014-01-18 18:23:04
+Linnea Bergen,Marin Onda,Katerina's Café,2014-01-07 19:22:01,2014-01-07 19:22:02
+Linnea Bergen,Lidelse Dedos,Katerina's Café,2014-01-08 19:47:01,2014-01-08 19:47:02
+Linnea Bergen,Elsa Orilla,Katerina's Café,2014-01-11 18:20:01,2014-01-11 18:22:02
+Linnea Bergen,Marin Onda,Katerina's Café,2014-01-11 18:20:01,2014-01-11 18:20:04
+Linnea Bergen,Bertrand Ovan,Katerina's Café,2014-01-15 19:10:51,2014-01-15 19:12:02
+Linnea Bergen,Kanon Herrero,Katerina's Café,2014-01-16 19:14:01,2014-01-16 19:15:02
+Linnea Bergen,Kare Orilla,Katerina's Café,2014-01-16 19:14:01,2014-01-16 19:15:21
+Loreto Bodrogi,Felix Resumir,Katerina's Café,2014-01-06 07:46:01,2014-01-06 07:46:23
+Loreto Bodrogi,Isak Baza,Katerina's Café,2014-01-06 12:01:01,2014-01-06 12:03:23
+Loreto Bodrogi,Inga Ferro,Katerina's Café,2014-01-08 07:18:01,2014-01-08 07:19:36
+Loreto Bodrogi,Stenig Fusil,Katerina's Café,2014-01-08 07:18:01,2014-01-08 07:20:36
+Loreto Bodrogi,Adra Nubarron,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:25:23
+Loreto Bodrogi,Edvard Vann,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:25:36
+Loreto Bodrogi,Hennie Osvaldo,Katerina's Café,2014-01-10 07:24:01,2014-01-10 07:25:36
+Loreto Bodrogi,Varja Lagos,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:23:23
+Loreto Bodrogi,Adra Nubarron,Katerina's Café,2014-01-13 07:31:01,2014-01-13 07:32:23
+Loreto Bodrogi,Isia Vann,Katerina's Café,2014-01-13 07:33:01,2014-01-13 07:33:36
+Loreto Bodrogi,Minke Mies,Katerina's Café,2014-01-13 07:32:01,2014-01-13 07:33:36
+Loreto Bodrogi,Inga Ferro,Katerina's Café,2014-01-14 07:33:01,2014-01-14 07:33:36
+Loreto Bodrogi,Sven Flecha,Katerina's Café,2014-01-14 07:31:01,2014-01-14 07:33:36
+Loreto Bodrogi,Varja Lagos,Katerina's Café,2014-01-14 07:32:01,2014-01-14 07:33:36
+Loreto Bodrogi,Minke Mies,Katerina's Café,2014-01-15 07:43:01,2014-01-15 07:45:36
+Loreto Bodrogi,Brand Tempestad,Katerina's Café,2014-01-16 07:34:01,2014-01-16 07:36:36
+Loreto Bodrogi,Felix Resumir,Katerina's Café,2014-01-16 07:35:01,2014-01-16 07:36:36
+Loreto Bodrogi,Varja Lagos,Katerina's Café,2014-01-17 07:53:01,2014-01-17 07:55:23
+Loreto Bodrogi,Lucas Alcazar,Katerina's Café,2014-01-18 18:32:01,2014-01-18 18:33:45
+Lucas Alcazar,Minke Mies,Katerina's Café,2014-01-07 12:31:01,2014-01-07 12:32:06
+Lucas Alcazar,Hennie Osvaldo,Katerina's Café,2014-01-07 19:05:01,2014-01-07 19:05:40
+Lucas Alcazar,Lidelse Dedos,Katerina's Café,2014-01-11 18:53:01,2014-01-11 18:54:05
+Lucas Alcazar,Bertrand Ovan,Katerina's Café,2014-01-12 18:43:39,2014-01-12 18:45:40
+Lucas Alcazar,Hennie Osvaldo,Katerina's Café,2014-01-12 18:46:01,2014-01-12 18:47:40
+Lucas Alcazar,Lidelse Dedos,Katerina's Café,2014-01-13 12:25:01,2014-01-13 12:28:23
+Lucas Alcazar,Bertrand Ovan,Katerina's Café,2014-01-16 18:46:33,2014-01-16 18:47:40
+Lucas Alcazar,Hennie Osvaldo,Katerina's Café,2014-01-16 18:43:01,2014-01-16 18:46:05
+Lucas Alcazar,Hennie Osvaldo,Katerina's Café,2014-01-17 19:16:01,2014-01-17 19:17:05
+Lucas Alcazar,Loreto Bodrogi,Katerina's Café,2014-01-18 18:32:01,2014-01-18 18:33:45
+Marin Onda,Linnea Bergen,Katerina's Café,2014-01-07 19:22:01,2014-01-07 19:22:02
+Marin Onda,Vira Frente,Katerina's Café,2014-01-08 12:09:01,2014-01-08 12:11:23
+Marin Onda,Elsa Orilla,Katerina's Café,2014-01-11 18:14:01,2014-01-11 18:20:04
+Marin Onda,Linnea Bergen,Katerina's Café,2014-01-11 18:20:01,2014-01-11 18:20:04
+Marin Onda,Hennie Osvaldo,Katerina's Café,2014-01-13 19:28:01,2014-01-13 19:29:04
+Marin Onda,Kanon Herrero,Katerina's Café,2014-01-13 19:29:01,2014-01-13 19:29:04
+Marin Onda,nan nan,Katerina's Café,2014-01-15 12:00:01,2014-01-15 12:01:42
+Marin Onda,Lidelse Dedos,Katerina's Café,2014-01-18 18:21:01,2014-01-18 18:23:04
+Marin Onda,Edvard Vann,Katerina's Café,2014-01-19 12:32:01,2014-01-19 12:35:04
+Minke Mies,Felix Resumir,Katerina's Café,2014-01-06 07:44:01,2014-01-06 07:44:53
+Minke Mies,Varja Lagos,Katerina's Café,2014-01-06 07:43:01,2014-01-06 07:44:53
+Minke Mies,Lucas Alcazar,Katerina's Café,2014-01-07 12:31:01,2014-01-07 12:32:06
+Minke Mies,Felix Resumir,Katerina's Café,2014-01-09 07:46:01,2014-01-09 07:46:53
+Minke Mies,Inga Ferro,Katerina's Café,2014-01-09 07:46:01,2014-01-09 07:46:53
+Minke Mies,Varja Lagos,Katerina's Café,2014-01-09 07:42:01,2014-01-09 07:43:23
+Minke Mies,Adra Nubarron,Katerina's Café,2014-01-13 07:32:01,2014-01-13 07:32:23
+Minke Mies,Isia Vann,Katerina's Café,2014-01-13 07:33:01,2014-01-13 07:35:36
+Minke Mies,Loreto Bodrogi,Katerina's Café,2014-01-13 07:32:01,2014-01-13 07:33:36
+Minke Mies,Felix Resumir,Katerina's Café,2014-01-15 07:46:01,2014-01-15 07:47:53
+Minke Mies,Loreto Bodrogi,Katerina's Café,2014-01-15 07:43:01,2014-01-15 07:45:36
+Minke Mies,Inga Ferro,Katerina's Café,2014-01-16 08:01:01,2014-01-16 08:01:53
+Minke Mies,Isia Vann,Katerina's Café,2014-01-18 18:39:01,2014-01-18 18:40:45
+Orhan Strum,Edvard Vann,Katerina's Café,2014-01-14 11:55:01,2014-01-14 11:55:23
+Orhan Strum,Isia Vann,Katerina's Café,2014-01-14 11:57:01,2014-01-14 11:58:23
+Orhan Strum,nan nan,Katerina's Café,2014-01-14 11:55:57,2014-01-14 11:58:23
+Stenig Fusil,Isia Vann,Katerina's Café,2014-01-06 07:15:01,2014-01-06 07:17:36
+Stenig Fusil,Inga Ferro,Katerina's Café,2014-01-08 07:18:01,2014-01-08 07:19:36
+Stenig Fusil,Loreto Bodrogi,Katerina's Café,2014-01-08 07:18:01,2014-01-08 07:20:36
+Stenig Fusil,Edvard Vann,Katerina's Café,2014-01-09 07:12:01,2014-01-09 07:16:35
+Stenig Fusil,Brand Tempestad,Katerina's Café,2014-01-13 07:16:01,2014-01-13 07:19:53
+Stenig Fusil,Edvard Vann,Katerina's Café,2014-01-14 07:10:01,2014-01-14 07:12:48
+Stenig Fusil,Hennie Osvaldo,Katerina's Café,2014-01-14 07:11:01,2014-01-14 07:13:36
+Stenig Fusil,Isia Vann,Katerina's Café,2014-01-14 07:10:01,2014-01-14 07:12:36
+Stenig Fusil,Brand Tempestad,Katerina's Café,2014-01-15 07:21:01,2014-01-15 07:24:53
+Stenig Fusil,Hennie Osvaldo,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:25:36
+Stenig Fusil,Isia Vann,Katerina's Café,2014-01-15 07:23:01,2014-01-15 07:25:36
+Stenig Fusil,Edvard Vann,Katerina's Café,2014-01-16 07:44:01,2014-01-16 07:46:48
+Sven Flecha,Edvard Vann,Katerina's Café,2014-01-06 07:03:01,2014-01-06 07:07:48
+Sven Flecha,Isia Vann,Katerina's Café,2014-01-09 07:30:01,2014-01-09 07:32:36
+Sven Flecha,Felix Resumir,Katerina's Café,2014-01-10 07:38:01,2014-01-10 07:40:23
+Sven Flecha,Brand Tempestad,Katerina's Café,2014-01-13 07:15:01,2014-01-13 07:15:53
+Sven Flecha,Inga Ferro,Katerina's Café,2014-01-14 07:33:01,2014-01-14 07:33:53
+Sven Flecha,Loreto Bodrogi,Katerina's Café,2014-01-14 07:31:01,2014-01-14 07:33:36
+Sven Flecha,Varja Lagos,Katerina's Café,2014-01-14 07:32:01,2014-01-14 07:33:53
+Varja Lagos,Felix Resumir,Katerina's Café,2014-01-06 07:44:01,2014-01-06 07:45:23
+Varja Lagos,Minke Mies,Katerina's Café,2014-01-06 07:43:01,2014-01-06 07:44:53
+Varja Lagos,Brand Tempestad,Katerina's Café,2014-01-07 07:45:01,2014-01-07 07:45:53
+Varja Lagos,Hennie Osvaldo,Katerina's Café,2014-01-07 07:45:01,2014-01-07 07:46:36
+Varja Lagos,Brand Tempestad,Katerina's Café,2014-01-08 07:34:01,2014-01-08 07:36:23
+Varja Lagos,Hennie Osvaldo,Katerina's Café,2014-01-08 07:35:01,2014-01-08 07:36:23
+Varja Lagos,Minke Mies,Katerina's Café,2014-01-09 07:42:01,2014-01-09 07:43:23
+Varja Lagos,Adra Nubarron,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:23:23
+Varja Lagos,Edvard Vann,Katerina's Café,2014-01-10 07:21:01,2014-01-10 07:23:23
+Varja Lagos,Loreto Bodrogi,Katerina's Café,2014-01-10 07:23:01,2014-01-10 07:23:23
+Varja Lagos,Axel Calzas,Katerina's Café,2014-01-11 12:47:01,2014-01-11 12:47:07
+Varja Lagos,Vira Frente,Katerina's Café,2014-01-11 12:46:01,2014-01-11 12:47:07
+Varja Lagos,Inga Ferro,Katerina's Café,2014-01-14 07:33:01,2014-01-14 07:34:23
+Varja Lagos,Loreto Bodrogi,Katerina's Café,2014-01-14 07:32:01,2014-01-14 07:33:36
+Varja Lagos,Sven Flecha,Katerina's Café,2014-01-14 07:32:01,2014-01-14 07:33:53
+Varja Lagos,Loreto Bodrogi,Katerina's Café,2014-01-17 07:53:01,2014-01-17 07:55:23
+Varja Lagos,Ingrid Barranco,Katerina's Café,2014-01-18 12:44:01,2014-01-18 12:45:07
+Vira Frente,Marin Onda,Katerina's Café,2014-01-08 12:09:01,2014-01-08 12:11:23
+Vira Frente,Axel Calzas,Katerina's Café,2014-01-11 12:47:01,2014-01-11 12:51:20
+Vira Frente,Kanon Herrero,Katerina's Café,2014-01-11 12:40:01,2014-01-11 12:41:02
+Vira Frente,Varja Lagos,Katerina's Café,2014-01-11 12:46:01,2014-01-11 12:47:07
+nan nan,Isia Vann,Katerina's Café,2014-01-14 11:57:01,2014-01-14 11:59:03
+nan nan,Orhan Strum,Katerina's Café,2014-01-14 11:55:57,2014-01-14 11:58:23
+nan nan,Marin Onda,Katerina's Café,2014-01-15 12:00:01,2014-01-15 12:01:42
+nan nan,Inga Ferro,Katerina's Café,2014-01-16 11:32:26,2014-01-16 11:33:18
+Ada Campo-Corrente,Ingrid Barranco,Spetson Park,2014-01-06 18:20:01,2014-01-06 18:21:59
+Ada Campo-Corrente,Ingrid Barranco,Spetson Park,2014-01-09 18:02:01,2014-01-09 18:05:22
+Ada Campo-Corrente,Ingrid Barranco,Spetson Park,2014-01-17 18:11:01,2014-01-17 18:11:22
+Ada Campo-Corrente,Ingrid Barranco,Spetson Park,2014-01-19 16:02:01,2014-01-19 16:06:03
+Ingrid Barranco,Ada Campo-Corrente,Spetson Park,2014-01-06 18:20:01,2014-01-06 18:21:59
+Ingrid Barranco,Ada Campo-Corrente,Spetson Park,2014-01-09 18:02:01,2014-01-09 18:05:22
+Ingrid Barranco,Ada Campo-Corrente,Spetson Park,2014-01-17 18:11:01,2014-01-17 18:11:22
+Ingrid Barranco,Ada Campo-Corrente,Spetson Park,2014-01-19 16:02:01,2014-01-19 16:06:03
+Isia Vann,Loreto Bodrogi,Spetson Park,2014-01-07 03:25:01,2014-01-07 03:25:01
+Loreto Bodrogi,Isia Vann,Spetson Park,2014-01-07 03:25:01,2014-01-07 03:25:01
+Ada Campo-Corrente,Felix Balas,Albert's Fine Clothing,2014-01-09 19:45:01,2014-01-09 19:45:09
+Ada Campo-Corrente,Orhan Strum,Albert's Fine Clothing,2014-01-09 19:43:01,2014-01-09 19:44:02
+Ada Campo-Corrente,Felix Resumir,Albert's Fine Clothing,2014-01-10 12:17:01,2014-01-10 12:26:27
+Ada Campo-Corrente,Willem Vasco-Pais,Albert's Fine Clothing,2014-01-10 12:17:01,2014-01-10 12:23:27
+Ada Campo-Corrente,Elsa Orilla,Albert's Fine Clothing,2014-01-12 17:59:01,2014-01-12 17:59:42
+Ada Campo-Corrente,Ingrid Barranco,Albert's Fine Clothing,2014-01-13 19:31:01,2014-01-13 19:31:35
+Ada Campo-Corrente,Orhan Strum,Albert's Fine Clothing,2014-01-13 19:32:01,2014-01-13 19:32:45
+Ada Campo-Corrente,Vira Frente,Albert's Fine Clothing,2014-01-14 19:32:01,2014-01-14 19:33:45
+Ada Campo-Corrente,Brand Tempestad,Albert's Fine Clothing,2014-01-15 11:57:01,2014-01-15 11:58:27
+Ada Campo-Corrente,Isak Baza,Albert's Fine Clothing,2014-01-15 11:57:01,2014-01-15 12:01:27
+Ada Campo-Corrente,Stenig Fusil,Albert's Fine Clothing,2014-01-15 12:05:01,2014-01-15 12:06:27
+Ada Campo-Corrente,Axel Calzas,Albert's Fine Clothing,2014-01-16 12:04:01,2014-01-16 12:07:27
+Ada Campo-Corrente,Elsa Orilla,Albert's Fine Clothing,2014-01-16 12:11:01,2014-01-16 12:13:27
+Ada Campo-Corrente,Lars Azada,Albert's Fine Clothing,2014-01-16 12:04:01,2014-01-16 12:08:27
+Ada Campo-Corrente,Marin Onda,Albert's Fine Clothing,2014-01-16 12:04:01,2014-01-16 12:07:27
+Ada Campo-Corrente,Gustav Cazar,Albert's Fine Clothing,2014-01-18 18:21:01,2014-01-18 18:21:45
+Ada Campo-Corrente,Axel Calzas,Albert's Fine Clothing,2014-01-19 18:20:01,2014-01-19 18:21:44
+Ada Campo-Corrente,Felix Balas,Albert's Fine Clothing,2014-01-19 18:21:01,2014-01-19 18:21:45
+Ada Campo-Corrente,Gustav Cazar,Albert's Fine Clothing,2014-01-19 18:20:01,2014-01-19 18:21:45
+Axel Calzas,Brand Tempestad,Albert's Fine Clothing,2014-01-09 12:14:01,2014-01-09 12:19:27
+Axel Calzas,Felix Balas,Albert's Fine Clothing,2014-01-09 12:16:01,2014-01-09 12:19:27
+Axel Calzas,Kanon Herrero,Albert's Fine Clothing,2014-01-09 12:13:01,2014-01-09 12:19:27
+Axel Calzas,Marin Onda,Albert's Fine Clothing,2014-01-09 12:10:01,2014-01-09 12:10:27
+Axel Calzas,Gustav Cazar,Albert's Fine Clothing,2014-01-12 18:33:01,2014-01-12 18:34:15
+Axel Calzas,Lars Azada,Albert's Fine Clothing,2014-01-13 18:39:01,2014-01-13 18:41:09
+Axel Calzas,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-16 12:04:01,2014-01-16 12:07:27
+Axel Calzas,Lars Azada,Albert's Fine Clothing,2014-01-16 11:59:01,2014-01-16 12:07:27
+Axel Calzas,Linnea Bergen,Albert's Fine Clothing,2014-01-16 11:58:01,2014-01-16 12:02:27
+Axel Calzas,Marin Onda,Albert's Fine Clothing,2014-01-16 11:58:01,2014-01-16 12:07:27
+Axel Calzas,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-19 18:20:01,2014-01-19 18:21:44
+Axel Calzas,Felix Balas,Albert's Fine Clothing,2014-01-19 18:21:01,2014-01-19 18:21:44
+Axel Calzas,Gustav Cazar,Albert's Fine Clothing,2014-01-19 18:20:01,2014-01-19 18:21:44
+Birgitta Frente,Nils Calixto,Albert's Fine Clothing,2014-01-13 12:15:01,2014-01-13 12:21:27
+Birgitta Frente,Sven Flecha,Albert's Fine Clothing,2014-01-13 12:17:01,2014-01-13 12:21:27
+Birgitta Frente,Edvard Vann,Albert's Fine Clothing,2014-01-17 12:13:01,2014-01-17 12:13:27
+Birgitta Frente,Stenig Fusil,Albert's Fine Clothing,2014-01-17 12:13:01,2014-01-17 12:14:27
+Brand Tempestad,Axel Calzas,Albert's Fine Clothing,2014-01-09 12:14:01,2014-01-09 12:19:27
+Brand Tempestad,Felix Balas,Albert's Fine Clothing,2014-01-09 12:16:01,2014-01-09 12:23:27
+Brand Tempestad,Kanon Herrero,Albert's Fine Clothing,2014-01-09 12:14:01,2014-01-09 12:22:27
+Brand Tempestad,Ingrid Barranco,Albert's Fine Clothing,2014-01-11 18:25:01,2014-01-11 18:28:13
+Brand Tempestad,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-15 11:57:01,2014-01-15 11:58:27
+Brand Tempestad,Isak Baza,Albert's Fine Clothing,2014-01-15 11:52:01,2014-01-15 11:58:27
+Edvard Vann,Gustav Cazar,Albert's Fine Clothing,2014-01-06 12:14:01,2014-01-06 12:17:27
+Edvard Vann,Nils Calixto,Albert's Fine Clothing,2014-01-06 12:17:01,2014-01-06 12:23:27
+Edvard Vann,Orhan Strum,Albert's Fine Clothing,2014-01-06 12:14:01,2014-01-06 12:21:27
+Edvard Vann,Felix Balas,Albert's Fine Clothing,2014-01-08 12:13:01,2014-01-08 12:17:27
+Edvard Vann,Linnea Bergen,Albert's Fine Clothing,2014-01-08 12:10:01,2014-01-08 12:17:27
+Edvard Vann,Nils Calixto,Albert's Fine Clothing,2014-01-08 12:08:01,2014-01-08 12:17:27
+Edvard Vann,Lars Azada,Albert's Fine Clothing,2014-01-11 18:12:01,2014-01-11 18:14:13
+Edvard Vann,Birgitta Frente,Albert's Fine Clothing,2014-01-17 12:13:01,2014-01-17 12:13:27
+Edvard Vann,Stenig Fusil,Albert's Fine Clothing,2014-01-17 12:05:01,2014-01-17 12:13:27
+Elsa Orilla,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-12 17:59:01,2014-01-12 17:59:42
+Elsa Orilla,Gustav Cazar,Albert's Fine Clothing,2014-01-15 12:17:01,2014-01-15 12:25:27
+Elsa Orilla,Hennie Osvaldo,Albert's Fine Clothing,2014-01-15 12:25:01,2014-01-15 12:25:27
+Elsa Orilla,Minke Mies,Albert's Fine Clothing,2014-01-15 12:24:01,2014-01-15 12:25:27
+Elsa Orilla,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-16 12:11:01,2014-01-16 12:13:27
+Elsa Orilla,Isak Baza,Albert's Fine Clothing,2014-01-16 12:15:01,2014-01-16 12:20:27
+Elsa Orilla,Isia Vann,Albert's Fine Clothing,2014-01-16 12:15:01,2014-01-16 12:20:27
+Elsa Orilla,Orhan Strum,Albert's Fine Clothing,2014-01-16 12:18:01,2014-01-16 12:20:27
+Elsa Orilla,Willem Vasco-Pais,Albert's Fine Clothing,2014-01-17 19:25:01,2014-01-17 19:26:19
+Felix Balas,Edvard Vann,Albert's Fine Clothing,2014-01-08 12:13:01,2014-01-08 12:17:27
+Felix Balas,Linnea Bergen,Albert's Fine Clothing,2014-01-08 12:13:01,2014-01-08 12:19:27
+Felix Balas,Nils Calixto,Albert's Fine Clothing,2014-01-08 12:13:01,2014-01-08 12:17:27
+Felix Balas,Axel Calzas,Albert's Fine Clothing,2014-01-09 12:16:01,2014-01-09 12:19:27
+Felix Balas,Brand Tempestad,Albert's Fine Clothing,2014-01-09 12:16:01,2014-01-09 12:23:27
+Felix Balas,Kanon Herrero,Albert's Fine Clothing,2014-01-09 12:16:01,2014-01-09 12:22:27
+Felix Balas,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-09 19:45:01,2014-01-09 19:45:09
+Felix Balas,Orhan Strum,Albert's Fine Clothing,2014-01-11 18:08:01,2014-01-11 18:09:03
+Felix Balas,Inga Ferro,Albert's Fine Clothing,2014-01-16 18:37:01,2014-01-16 18:39:28
+Felix Balas,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-19 18:21:01,2014-01-19 18:21:45
+Felix Balas,Axel Calzas,Albert's Fine Clothing,2014-01-19 18:21:01,2014-01-19 18:21:44
+Felix Balas,Gustav Cazar,Albert's Fine Clothing,2014-01-19 18:21:01,2014-01-19 18:22:13
+Felix Resumir,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-10 12:17:01,2014-01-10 12:26:27
+Felix Resumir,Willem Vasco-Pais,Albert's Fine Clothing,2014-01-10 12:17:01,2014-01-10 12:23:27
+Gustav Cazar,Edvard Vann,Albert's Fine Clothing,2014-01-06 12:14:01,2014-01-06 12:17:27
+Gustav Cazar,Nils Calixto,Albert's Fine Clothing,2014-01-06 12:17:01,2014-01-06 12:17:27
+Gustav Cazar,Orhan Strum,Albert's Fine Clothing,2014-01-06 12:12:01,2014-01-06 12:17:27
+Gustav Cazar,Axel Calzas,Albert's Fine Clothing,2014-01-12 18:33:01,2014-01-12 18:34:15
+Gustav Cazar,Elsa Orilla,Albert's Fine Clothing,2014-01-15 12:17:01,2014-01-15 12:25:27
+Gustav Cazar,Hennie Osvaldo,Albert's Fine Clothing,2014-01-15 12:25:01,2014-01-15 12:26:27
+Gustav Cazar,Minke Mies,Albert's Fine Clothing,2014-01-15 12:24:01,2014-01-15 12:26:27
+Gustav Cazar,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-18 18:21:01,2014-01-18 18:21:45
+Gustav Cazar,Lars Azada,Albert's Fine Clothing,2014-01-18 18:23:01,2014-01-18 18:23:13
+Gustav Cazar,Vira Frente,Albert's Fine Clothing,2014-01-18 18:22:01,2014-01-18 18:23:13
+Gustav Cazar,Willem Vasco-Pais,Albert's Fine Clothing,2014-01-18 18:22:01,2014-01-18 18:23:13
+Gustav Cazar,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-19 18:20:01,2014-01-19 18:21:45
+Gustav Cazar,Axel Calzas,Albert's Fine Clothing,2014-01-19 18:20:01,2014-01-19 18:21:44
+Gustav Cazar,Felix Balas,Albert's Fine Clothing,2014-01-19 18:21:01,2014-01-19 18:22:13
+Hennie Osvaldo,Elsa Orilla,Albert's Fine Clothing,2014-01-15 12:25:01,2014-01-15 12:25:27
+Hennie Osvaldo,Gustav Cazar,Albert's Fine Clothing,2014-01-15 12:25:01,2014-01-15 12:26:27
+Hennie Osvaldo,Minke Mies,Albert's Fine Clothing,2014-01-15 12:25:01,2014-01-15 12:33:03
+Inga Ferro,Felix Balas,Albert's Fine Clothing,2014-01-16 18:37:01,2014-01-16 18:39:28
+Ingrid Barranco,Orhan Strum,Albert's Fine Clothing,2014-01-07 19:33:01,2014-01-07 19:33:13
+Ingrid Barranco,Vira Frente,Albert's Fine Clothing,2014-01-10 19:41:01,2014-01-10 19:41:38
+Ingrid Barranco,Minke Mies,Albert's Fine Clothing,2014-01-11 12:58:01,2014-01-11 13:01:13
+Ingrid Barranco,Brand Tempestad,Albert's Fine Clothing,2014-01-11 18:25:01,2014-01-11 18:28:13
+Ingrid Barranco,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-13 19:31:01,2014-01-13 19:31:35
+Ingrid Barranco,Linnea Bergen,Albert's Fine Clothing,2014-01-14 12:12:01,2014-01-14 12:18:27
+Ingrid Barranco,Loreto Bodrogi,Albert's Fine Clothing,2014-01-14 12:10:01,2014-01-14 12:14:20
+Ingrid Barranco,Lucas Alcazar,Albert's Fine Clothing,2014-01-14 12:09:01,2014-01-14 12:14:27
+Isak Baza,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-15 11:57:01,2014-01-15 12:01:27
+Isak Baza,Brand Tempestad,Albert's Fine Clothing,2014-01-15 11:52:01,2014-01-15 11:58:27
+Isak Baza,Elsa Orilla,Albert's Fine Clothing,2014-01-16 12:15:01,2014-01-16 12:20:27
+Isak Baza,Isia Vann,Albert's Fine Clothing,2014-01-16 12:15:01,2014-01-16 12:24:27
+Isak Baza,Orhan Strum,Albert's Fine Clothing,2014-01-16 12:18:01,2014-01-16 12:24:27
+Isia Vann,Linnea Bergen,Albert's Fine Clothing,2014-01-13 11:50:01,2014-01-13 11:55:27
+Isia Vann,Elsa Orilla,Albert's Fine Clothing,2014-01-16 12:15:01,2014-01-16 12:20:27
+Isia Vann,Isak Baza,Albert's Fine Clothing,2014-01-16 12:15:01,2014-01-16 12:24:27
+Isia Vann,Orhan Strum,Albert's Fine Clothing,2014-01-16 12:18:01,2014-01-16 12:24:27
+Kanon Herrero,Axel Calzas,Albert's Fine Clothing,2014-01-09 12:13:01,2014-01-09 12:19:27
+Kanon Herrero,Brand Tempestad,Albert's Fine Clothing,2014-01-09 12:14:01,2014-01-09 12:22:27
+Kanon Herrero,Felix Balas,Albert's Fine Clothing,2014-01-09 12:16:01,2014-01-09 12:22:27
+Kanon Herrero,Lucas Alcazar,Albert's Fine Clothing,2014-01-12 13:01:01,2014-01-12 13:03:59
+Lars Azada,Edvard Vann,Albert's Fine Clothing,2014-01-11 18:12:01,2014-01-11 18:14:13
+Lars Azada,Axel Calzas,Albert's Fine Clothing,2014-01-13 18:39:01,2014-01-13 18:41:09
+Lars Azada,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-16 12:04:01,2014-01-16 12:08:27
+Lars Azada,Axel Calzas,Albert's Fine Clothing,2014-01-16 11:59:01,2014-01-16 12:07:27
+Lars Azada,Linnea Bergen,Albert's Fine Clothing,2014-01-16 11:59:01,2014-01-16 12:02:27
+Lars Azada,Marin Onda,Albert's Fine Clothing,2014-01-16 11:59:01,2014-01-16 12:07:27
+Lars Azada,Gustav Cazar,Albert's Fine Clothing,2014-01-18 18:23:01,2014-01-18 18:23:13
+Lars Azada,Vira Frente,Albert's Fine Clothing,2014-01-18 18:23:01,2014-01-18 18:24:53
+Lars Azada,Willem Vasco-Pais,Albert's Fine Clothing,2014-01-18 18:23:01,2014-01-18 18:25:13
+Linnea Bergen,Edvard Vann,Albert's Fine Clothing,2014-01-08 12:10:01,2014-01-08 12:17:27
+Linnea Bergen,Felix Balas,Albert's Fine Clothing,2014-01-08 12:13:01,2014-01-08 12:19:27
+Linnea Bergen,Nils Calixto,Albert's Fine Clothing,2014-01-08 12:10:01,2014-01-08 12:17:27
+Linnea Bergen,Isia Vann,Albert's Fine Clothing,2014-01-13 11:50:01,2014-01-13 11:55:27
+Linnea Bergen,Ingrid Barranco,Albert's Fine Clothing,2014-01-14 12:12:01,2014-01-14 12:18:27
+Linnea Bergen,Loreto Bodrogi,Albert's Fine Clothing,2014-01-14 12:12:01,2014-01-14 12:14:20
+Linnea Bergen,Lucas Alcazar,Albert's Fine Clothing,2014-01-14 12:12:01,2014-01-14 12:14:27
+Linnea Bergen,Axel Calzas,Albert's Fine Clothing,2014-01-16 11:58:01,2014-01-16 12:02:27
+Linnea Bergen,Lars Azada,Albert's Fine Clothing,2014-01-16 11:59:01,2014-01-16 12:02:27
+Linnea Bergen,Marin Onda,Albert's Fine Clothing,2014-01-16 11:58:01,2014-01-16 12:02:27
+Loreto Bodrogi,Ingrid Barranco,Albert's Fine Clothing,2014-01-14 12:10:01,2014-01-14 12:14:20
+Loreto Bodrogi,Linnea Bergen,Albert's Fine Clothing,2014-01-14 12:12:01,2014-01-14 12:14:20
+Loreto Bodrogi,Lucas Alcazar,Albert's Fine Clothing,2014-01-14 12:10:01,2014-01-14 12:14:20
+Lucas Alcazar,Kanon Herrero,Albert's Fine Clothing,2014-01-12 13:01:01,2014-01-12 13:03:59
+Lucas Alcazar,Ingrid Barranco,Albert's Fine Clothing,2014-01-14 12:09:01,2014-01-14 12:14:27
+Lucas Alcazar,Linnea Bergen,Albert's Fine Clothing,2014-01-14 12:12:01,2014-01-14 12:14:27
+Lucas Alcazar,Loreto Bodrogi,Albert's Fine Clothing,2014-01-14 12:10:01,2014-01-14 12:14:20
+Marin Onda,Axel Calzas,Albert's Fine Clothing,2014-01-09 12:10:01,2014-01-09 12:10:27
+Marin Onda,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-16 12:04:01,2014-01-16 12:07:27
+Marin Onda,Axel Calzas,Albert's Fine Clothing,2014-01-16 11:58:01,2014-01-16 12:07:27
+Marin Onda,Lars Azada,Albert's Fine Clothing,2014-01-16 11:59:01,2014-01-16 12:07:27
+Marin Onda,Linnea Bergen,Albert's Fine Clothing,2014-01-16 11:58:01,2014-01-16 12:02:27
+Minke Mies,Ingrid Barranco,Albert's Fine Clothing,2014-01-11 12:58:01,2014-01-11 13:01:13
+Minke Mies,Elsa Orilla,Albert's Fine Clothing,2014-01-15 12:24:01,2014-01-15 12:25:27
+Minke Mies,Gustav Cazar,Albert's Fine Clothing,2014-01-15 12:24:01,2014-01-15 12:26:27
+Minke Mies,Hennie Osvaldo,Albert's Fine Clothing,2014-01-15 12:25:01,2014-01-15 12:33:03
+Nils Calixto,Edvard Vann,Albert's Fine Clothing,2014-01-06 12:17:01,2014-01-06 12:23:27
+Nils Calixto,Gustav Cazar,Albert's Fine Clothing,2014-01-06 12:17:01,2014-01-06 12:17:27
+Nils Calixto,Orhan Strum,Albert's Fine Clothing,2014-01-06 12:17:01,2014-01-06 12:21:27
+Nils Calixto,Edvard Vann,Albert's Fine Clothing,2014-01-08 12:08:01,2014-01-08 12:17:27
+Nils Calixto,Felix Balas,Albert's Fine Clothing,2014-01-08 12:13:01,2014-01-08 12:17:27
+Nils Calixto,Linnea Bergen,Albert's Fine Clothing,2014-01-08 12:10:01,2014-01-08 12:17:27
+Nils Calixto,Birgitta Frente,Albert's Fine Clothing,2014-01-13 12:15:01,2014-01-13 12:21:27
+Nils Calixto,Sven Flecha,Albert's Fine Clothing,2014-01-13 12:17:01,2014-01-13 12:24:27
+Orhan Strum,Edvard Vann,Albert's Fine Clothing,2014-01-06 12:14:01,2014-01-06 12:21:27
+Orhan Strum,Gustav Cazar,Albert's Fine Clothing,2014-01-06 12:12:01,2014-01-06 12:17:27
+Orhan Strum,Nils Calixto,Albert's Fine Clothing,2014-01-06 12:17:01,2014-01-06 12:21:27
+Orhan Strum,Ingrid Barranco,Albert's Fine Clothing,2014-01-07 19:33:01,2014-01-07 19:33:13
+Orhan Strum,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-09 19:43:01,2014-01-09 19:44:02
+Orhan Strum,Felix Balas,Albert's Fine Clothing,2014-01-11 18:08:01,2014-01-11 18:09:03
+Orhan Strum,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-13 19:32:01,2014-01-13 19:32:45
+Orhan Strum,Elsa Orilla,Albert's Fine Clothing,2014-01-16 12:18:01,2014-01-16 12:20:27
+Orhan Strum,Isak Baza,Albert's Fine Clothing,2014-01-16 12:18:01,2014-01-16 12:24:27
+Orhan Strum,Isia Vann,Albert's Fine Clothing,2014-01-16 12:18:01,2014-01-16 12:24:27
+Orhan Strum,Vira Frente,Albert's Fine Clothing,2014-01-19 18:34:01,2014-01-19 18:34:41
+Stenig Fusil,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-15 12:05:01,2014-01-15 12:06:27
+Stenig Fusil,Birgitta Frente,Albert's Fine Clothing,2014-01-17 12:13:01,2014-01-17 12:14:27
+Stenig Fusil,Edvard Vann,Albert's Fine Clothing,2014-01-17 12:05:01,2014-01-17 12:13:27
+Sven Flecha,Birgitta Frente,Albert's Fine Clothing,2014-01-13 12:17:01,2014-01-13 12:21:27
+Sven Flecha,Nils Calixto,Albert's Fine Clothing,2014-01-13 12:17:01,2014-01-13 12:24:27
+Vira Frente,Ingrid Barranco,Albert's Fine Clothing,2014-01-10 19:41:01,2014-01-10 19:41:38
+Vira Frente,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-14 19:32:01,2014-01-14 19:33:45
+Vira Frente,Gustav Cazar,Albert's Fine Clothing,2014-01-18 18:22:01,2014-01-18 18:23:13
+Vira Frente,Lars Azada,Albert's Fine Clothing,2014-01-18 18:23:01,2014-01-18 18:24:53
+Vira Frente,Willem Vasco-Pais,Albert's Fine Clothing,2014-01-18 18:22:01,2014-01-18 18:24:53
+Vira Frente,Orhan Strum,Albert's Fine Clothing,2014-01-19 18:34:01,2014-01-19 18:34:41
+Willem Vasco-Pais,Ada Campo-Corrente,Albert's Fine Clothing,2014-01-10 12:17:01,2014-01-10 12:23:27
+Willem Vasco-Pais,Felix Resumir,Albert's Fine Clothing,2014-01-10 12:17:01,2014-01-10 12:23:27
+Willem Vasco-Pais,Elsa Orilla,Albert's Fine Clothing,2014-01-17 19:25:01,2014-01-17 19:26:19
+Willem Vasco-Pais,Gustav Cazar,Albert's Fine Clothing,2014-01-18 18:22:01,2014-01-18 18:23:13
+Willem Vasco-Pais,Lars Azada,Albert's Fine Clothing,2014-01-18 18:23:01,2014-01-18 18:25:13
+Willem Vasco-Pais,Vira Frente,Albert's Fine Clothing,2014-01-18 18:22:01,2014-01-18 18:24:53
+Ada Campo-Corrente,Hennie Osvaldo,General Grocer,2014-01-07 12:11:01,2014-01-07 12:16:16
+Ada Campo-Corrente,Lidelse Dedos,General Grocer,2014-01-07 12:12:01,2014-01-07 12:16:16
+Ada Campo-Corrente,Nils Calixto,General Grocer,2014-01-07 12:10:01,2014-01-07 12:15:16
+Adra Nubarron,Lucas Alcazar,General Grocer,2014-01-08 12:13:01,2014-01-08 12:17:16
+Bertrand Ovan,Willem Vasco-Pais,General Grocer,2014-01-07 12:35:01,2014-01-07 12:36:36
+Birgitta Frente,Loreto Bodrogi,General Grocer,2014-01-11 12:47:01,2014-01-11 12:48:54
+Edvard Vann,Elsa Orilla,General Grocer,2014-01-09 11:57:01,2014-01-09 11:57:16
+Edvard Vann,Isak Baza,General Grocer,2014-01-09 12:02:01,2014-01-09 12:03:16
+Elsa Orilla,Edvard Vann,General Grocer,2014-01-09 11:57:01,2014-01-09 11:57:16
+Felix Balas,Marin Onda,General Grocer,2014-01-17 12:15:01,2014-01-17 12:21:16
+Felix Balas,Orhan Strum,General Grocer,2014-01-17 12:15:01,2014-01-17 12:16:16
+Gustav Cazar,Sven Flecha,General Grocer,2014-01-14 12:23:01,2014-01-14 12:29:16
+Hennie Osvaldo,Ada Campo-Corrente,General Grocer,2014-01-07 12:11:01,2014-01-07 12:16:16
+Hennie Osvaldo,Lidelse Dedos,General Grocer,2014-01-07 12:12:01,2014-01-07 12:17:16
+Hennie Osvaldo,Nils Calixto,General Grocer,2014-01-07 12:11:01,2014-01-07 12:15:16
+Hennie Osvaldo,Lidelse Dedos,General Grocer,2014-01-16 12:19:01,2014-01-16 12:23:16
+Inga Ferro,Loreto Bodrogi,General Grocer,2014-01-15 12:12:01,2014-01-15 12:17:21
+Inga Ferro,Orhan Strum,General Grocer,2014-01-17 12:10:01,2014-01-17 12:10:34
+Isak Baza,Edvard Vann,General Grocer,2014-01-09 12:02:01,2014-01-09 12:03:16
+Kanon Herrero,Willem Vasco-Pais,General Grocer,2014-01-14 12:37:01,2014-01-14 12:42:16
+Kare Orilla,Lucas Alcazar,General Grocer,2014-01-06 12:18:01,2014-01-06 12:23:16
+Lars Azada,Orhan Strum,General Grocer,2014-01-13 11:58:01,2014-01-13 12:04:16
+Lidelse Dedos,Ada Campo-Corrente,General Grocer,2014-01-07 12:12:01,2014-01-07 12:16:16
+Lidelse Dedos,Hennie Osvaldo,General Grocer,2014-01-07 12:12:01,2014-01-07 12:17:16
+Lidelse Dedos,Nils Calixto,General Grocer,2014-01-07 12:12:01,2014-01-07 12:15:16
+Lidelse Dedos,Hennie Osvaldo,General Grocer,2014-01-16 12:19:01,2014-01-16 12:23:16
+Loreto Bodrogi,Birgitta Frente,General Grocer,2014-01-11 12:47:01,2014-01-11 12:48:54
+Loreto Bodrogi,Inga Ferro,General Grocer,2014-01-15 12:12:01,2014-01-15 12:17:21
+Lucas Alcazar,Kare Orilla,General Grocer,2014-01-06 12:18:01,2014-01-06 12:23:16
+Lucas Alcazar,Adra Nubarron,General Grocer,2014-01-08 12:13:01,2014-01-08 12:17:16
+Marin Onda,Nils Calixto,General Grocer,2014-01-07 12:09:01,2014-01-07 12:09:16
+Marin Onda,Felix Balas,General Grocer,2014-01-17 12:15:01,2014-01-17 12:21:16
+Marin Onda,Orhan Strum,General Grocer,2014-01-17 12:15:01,2014-01-17 12:16:16
+Nils Calixto,Ada Campo-Corrente,General Grocer,2014-01-07 12:10:01,2014-01-07 12:15:16
+Nils Calixto,Hennie Osvaldo,General Grocer,2014-01-07 12:11:01,2014-01-07 12:15:16
+Nils Calixto,Lidelse Dedos,General Grocer,2014-01-07 12:12:01,2014-01-07 12:15:16
+Nils Calixto,Marin Onda,General Grocer,2014-01-07 12:09:01,2014-01-07 12:09:16
+Orhan Strum,Lars Azada,General Grocer,2014-01-13 11:58:01,2014-01-13 12:04:16
+Orhan Strum,Felix Balas,General Grocer,2014-01-17 12:15:01,2014-01-17 12:16:16
+Orhan Strum,Inga Ferro,General Grocer,2014-01-17 12:10:01,2014-01-17 12:10:34
+Orhan Strum,Marin Onda,General Grocer,2014-01-17 12:15:01,2014-01-17 12:16:16
+Sven Flecha,Gustav Cazar,General Grocer,2014-01-14 12:23:01,2014-01-14 12:29:16
+Willem Vasco-Pais,Bertrand Ovan,General Grocer,2014-01-07 12:35:01,2014-01-07 12:36:36
+Willem Vasco-Pais,Kanon Herrero,General Grocer,2014-01-14 12:37:01,2014-01-14 12:42:16
+Ada Campo-Corrente,Inga Ferro,Ouzeri Elian,2014-01-12 12:39:01,2014-01-12 12:44:56
+Axel Calzas,Vira Frente,Ouzeri Elian,2014-01-07 12:05:01,2014-01-07 12:06:05
+Axel Calzas,Varja Lagos,Ouzeri Elian,2014-01-15 11:58:01,2014-01-15 11:59:05
+Bertrand Ovan,Inga Ferro,Ouzeri Elian,2014-01-12 13:31:01,2014-01-12 13:31:52
+Bertrand Ovan,Marin Onda,Ouzeri Elian,2014-01-12 13:32:01,2014-01-12 13:32:52
+Birgitta Frente,Gustav Cazar,Ouzeri Elian,2014-01-10 12:20:01,2014-01-10 12:20:05
+Birgitta Frente,Hennie Osvaldo,Ouzeri Elian,2014-01-10 12:18:01,2014-01-10 12:18:55
+Brand Tempestad,Elsa Orilla,Ouzeri Elian,2014-01-06 11:47:01,2014-01-06 11:48:05
+Elsa Orilla,Brand Tempestad,Ouzeri Elian,2014-01-06 11:47:01,2014-01-06 11:48:05
+Gustav Cazar,Birgitta Frente,Ouzeri Elian,2014-01-10 12:20:01,2014-01-10 12:20:05
+Gustav Cazar,Nils Calixto,Ouzeri Elian,2014-01-10 12:21:01,2014-01-10 12:22:05
+Gustav Cazar,Marin Onda,Ouzeri Elian,2014-01-13 12:13:01,2014-01-13 12:14:05
+Gustav Cazar,Nils Calixto,Ouzeri Elian,2014-01-16 18:54:01,2014-01-16 18:58:52
+Hennie Osvaldo,Birgitta Frente,Ouzeri Elian,2014-01-10 12:18:01,2014-01-10 12:18:55
+Hennie Osvaldo,Loreto Bodrogi,Ouzeri Elian,2014-01-10 12:12:01,2014-01-10 12:12:05
+Hideki Cocinaro,Isak Baza,Ouzeri Elian,2014-01-14 12:05:01,2014-01-14 12:06:05
+Inga Ferro,Ada Campo-Corrente,Ouzeri Elian,2014-01-12 12:39:01,2014-01-12 12:44:56
+Inga Ferro,Bertrand Ovan,Ouzeri Elian,2014-01-12 13:31:01,2014-01-12 13:31:52
+Isak Baza,Sven Flecha,Ouzeri Elian,2014-01-12 18:36:01,2014-01-12 18:39:09
+Isak Baza,Hideki Cocinaro,Ouzeri Elian,2014-01-14 12:05:01,2014-01-14 12:06:05
+Isak Baza,Kanon Herrero,Ouzeri Elian,2014-01-19 18:47:01,2014-01-19 18:51:09
+Kanon Herrero,Isak Baza,Ouzeri Elian,2014-01-19 18:47:01,2014-01-19 18:51:09
+Linnea Bergen,Nils Calixto,Ouzeri Elian,2014-01-15 12:07:01,2014-01-15 12:07:05
+Loreto Bodrogi,Hennie Osvaldo,Ouzeri Elian,2014-01-10 12:12:01,2014-01-10 12:12:05
+Loreto Bodrogi,Nils Calixto,Ouzeri Elian,2014-01-13 18:45:01,2014-01-13 18:47:13
+Marin Onda,Bertrand Ovan,Ouzeri Elian,2014-01-12 13:32:01,2014-01-12 13:32:52
+Marin Onda,Gustav Cazar,Ouzeri Elian,2014-01-13 12:13:01,2014-01-13 12:14:05
+Nils Calixto,Gustav Cazar,Ouzeri Elian,2014-01-10 12:21:01,2014-01-10 12:22:05
+Nils Calixto,Loreto Bodrogi,Ouzeri Elian,2014-01-13 18:45:01,2014-01-13 18:47:13
+Nils Calixto,Linnea Bergen,Ouzeri Elian,2014-01-15 12:07:01,2014-01-15 12:07:05
+Nils Calixto,Gustav Cazar,Ouzeri Elian,2014-01-16 18:54:01,2014-01-16 18:58:52
+Sven Flecha,Isak Baza,Ouzeri Elian,2014-01-12 18:36:01,2014-01-12 18:39:09
+Sven Flecha,Varja Lagos,Ouzeri Elian,2014-01-19 12:50:01,2014-01-19 12:55:34
+Varja Lagos,Axel Calzas,Ouzeri Elian,2014-01-15 11:58:01,2014-01-15 11:59:05
+Varja Lagos,Sven Flecha,Ouzeri Elian,2014-01-19 12:50:01,2014-01-19 12:55:34
+Vira Frente,Axel Calzas,Ouzeri Elian,2014-01-07 12:05:01,2014-01-07 12:06:05
+Ada Campo-Corrente,Ingrid Barranco,Desafio Golf Course,2014-01-12 13:04:01,2014-01-12 13:06:05
+Ada Campo-Corrente,Ingrid Barranco,Desafio Golf Course,2014-01-19 12:35:01,2014-01-19 12:36:05
+Ada Campo-Corrente,Orhan Strum,Desafio Golf Course,2014-01-19 12:35:01,2014-01-19 12:36:04
+Ada Campo-Corrente,Willem Vasco-Pais,Desafio Golf Course,2014-01-19 12:37:01,2014-01-19 12:39:39
+Ingrid Barranco,Ada Campo-Corrente,Desafio Golf Course,2014-01-12 13:04:01,2014-01-12 13:06:05
+Ingrid Barranco,Ada Campo-Corrente,Desafio Golf Course,2014-01-19 12:35:01,2014-01-19 12:36:05
+Ingrid Barranco,Orhan Strum,Desafio Golf Course,2014-01-19 12:31:01,2014-01-19 12:36:04
+Orhan Strum,Ada Campo-Corrente,Desafio Golf Course,2014-01-19 12:35:01,2014-01-19 12:36:04
+Orhan Strum,Ingrid Barranco,Desafio Golf Course,2014-01-19 12:31:01,2014-01-19 12:36:04
+Willem Vasco-Pais,Ada Campo-Corrente,Desafio Golf Course,2014-01-19 12:37:01,2014-01-19 12:39:39
+Ada Campo-Corrente,Felix Balas,Roberts and Sons,2014-01-14 12:03:01,2014-01-14 12:06:26
+Ada Campo-Corrente,Nils Calixto,Roberts and Sons,2014-01-14 12:07:01,2014-01-14 12:11:26
+Ada Campo-Corrente,Lucas Alcazar,Roberts and Sons,2014-01-17 12:12:01,2014-01-17 12:13:26
+Ada Campo-Corrente,Sten Sanjorge Jr.,Roberts and Sons,2014-01-17 12:15:01,2014-01-17 12:20:17
+Ada Campo-Corrente,Linnea Bergen,Roberts and Sons,2014-01-18 12:23:01,2014-01-18 12:27:33
+Adra Nubarron,Axel Calzas,Roberts and Sons,2014-01-06 12:13:01,2014-01-06 12:20:26
+Adra Nubarron,Varja Lagos,Roberts and Sons,2014-01-06 12:20:01,2014-01-06 12:21:17
+Adra Nubarron,Brand Tempestad,Roberts and Sons,2014-01-07 12:19:01,2014-01-07 12:25:17
+Adra Nubarron,Gustav Cazar,Roberts and Sons,2014-01-07 12:19:01,2014-01-07 12:26:26
+Adra Nubarron,Inga Ferro,Roberts and Sons,2014-01-07 12:19:01,2014-01-07 12:27:26
+Adra Nubarron,Marin Onda,Roberts and Sons,2014-01-10 12:02:01,2014-01-10 12:04:17
+Adra Nubarron,Hideki Cocinaro,Roberts and Sons,2014-01-11 18:25:01,2014-01-11 18:34:08
+Adra Nubarron,Inga Ferro,Roberts and Sons,2014-01-11 18:28:01,2014-01-11 18:34:08
+Adra Nubarron,Brand Tempestad,Roberts and Sons,2014-01-13 12:02:01,2014-01-13 12:02:17
+Adra Nubarron,Vira Frente,Roberts and Sons,2014-01-13 11:56:01,2014-01-13 12:02:17
+Adra Nubarron,Edvard Vann,Roberts and Sons,2014-01-16 12:05:01,2014-01-16 12:12:17
+Adra Nubarron,Felix Balas,Roberts and Sons,2014-01-16 12:13:01,2014-01-16 12:13:17
+Adra Nubarron,Sven Flecha,Roberts and Sons,2014-01-16 12:12:01,2014-01-16 12:13:17
+Axel Calzas,Adra Nubarron,Roberts and Sons,2014-01-06 12:13:01,2014-01-06 12:20:26
+Axel Calzas,Varja Lagos,Roberts and Sons,2014-01-06 12:20:01,2014-01-06 12:20:26
+Axel Calzas,Ingrid Barranco,Roberts and Sons,2014-01-13 12:20:01,2014-01-13 12:26:17
+Axel Calzas,Loreto Bodrogi,Roberts and Sons,2014-01-13 12:18:01,2014-01-13 12:21:29
+Axel Calzas,Hennie Osvaldo,Roberts and Sons,2014-01-14 12:15:01,2014-01-14 12:20:17
+Axel Calzas,Marin Onda,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:23:26
+Axel Calzas,Minke Mies,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:23:26
+Axel Calzas,Nils Calixto,Roberts and Sons,2014-01-14 12:15:01,2014-01-14 12:15:26
+Axel Calzas,Stenig Fusil,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:23:26
+Axel Calzas,Elsa Orilla,Roberts and Sons,2014-01-18 12:44:01,2014-01-18 12:44:40
+Axel Calzas,Nils Calixto,Roberts and Sons,2014-01-18 12:48:01,2014-01-18 12:48:37
+Axel Calzas,Orhan Strum,Roberts and Sons,2014-01-18 12:44:01,2014-01-18 12:48:37
+Bertrand Ovan,Birgitta Frente,Roberts and Sons,2014-01-08 12:24:01,2014-01-08 12:30:12
+Bertrand Ovan,Kare Orilla,Roberts and Sons,2014-01-08 12:21:47,2014-01-08 12:22:26
+Bertrand Ovan,Willem Vasco-Pais,Roberts and Sons,2014-01-08 12:21:47,2014-01-08 12:26:17
+Bertrand Ovan,Hideki Cocinaro,Roberts and Sons,2014-01-16 12:25:12,2014-01-16 12:25:17
+Bertrand Ovan,Kare Orilla,Roberts and Sons,2014-01-16 12:25:12,2014-01-16 12:28:26
+Birgitta Frente,Bertrand Ovan,Roberts and Sons,2014-01-08 12:24:01,2014-01-08 12:30:12
+Birgitta Frente,Willem Vasco-Pais,Roberts and Sons,2014-01-08 12:24:01,2014-01-08 12:26:17
+Birgitta Frente,Felix Balas,Roberts and Sons,2014-01-18 18:40:01,2014-01-18 18:43:09
+Brand Tempestad,Adra Nubarron,Roberts and Sons,2014-01-07 12:19:01,2014-01-07 12:25:17
+Brand Tempestad,Gustav Cazar,Roberts and Sons,2014-01-07 12:18:01,2014-01-07 12:25:17
+Brand Tempestad,Inga Ferro,Roberts and Sons,2014-01-07 12:18:01,2014-01-07 12:25:17
+Brand Tempestad,Ingrid Barranco,Roberts and Sons,2014-01-07 12:17:01,2014-01-07 12:17:17
+Brand Tempestad,Elsa Orilla,Roberts and Sons,2014-01-12 12:32:01,2014-01-12 12:36:36
+Brand Tempestad,Adra Nubarron,Roberts and Sons,2014-01-13 12:02:01,2014-01-13 12:02:17
+Brand Tempestad,Felix Balas,Roberts and Sons,2014-01-13 12:09:01,2014-01-13 12:10:17
+Brand Tempestad,Loreto Bodrogi,Roberts and Sons,2014-01-13 12:10:01,2014-01-13 12:10:17
+Brand Tempestad,Stenig Fusil,Roberts and Sons,2014-01-13 12:07:01,2014-01-13 12:10:17
+Brand Tempestad,Vira Frente,Roberts and Sons,2014-01-13 12:02:01,2014-01-13 12:04:17
+Edvard Vann,Hideki Cocinaro,Roberts and Sons,2014-01-07 12:07:01,2014-01-07 12:15:26
+Edvard Vann,Ingrid Barranco,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:15:26
+Edvard Vann,Isak Baza,Roberts and Sons,2014-01-07 12:08:01,2014-01-07 12:15:26
+Edvard Vann,Lars Azada,Roberts and Sons,2014-01-07 12:07:01,2014-01-07 12:13:17
+Edvard Vann,Adra Nubarron,Roberts and Sons,2014-01-16 12:05:01,2014-01-16 12:12:17
+Edvard Vann,Sven Flecha,Roberts and Sons,2014-01-16 12:12:01,2014-01-16 12:12:17
+Elsa Orilla,Linnea Bergen,Roberts and Sons,2014-01-11 12:32:01,2014-01-11 12:37:40
+Elsa Orilla,Brand Tempestad,Roberts and Sons,2014-01-12 12:32:01,2014-01-12 12:36:36
+Elsa Orilla,Axel Calzas,Roberts and Sons,2014-01-18 12:44:01,2014-01-18 12:44:40
+Elsa Orilla,Orhan Strum,Roberts and Sons,2014-01-18 12:43:01,2014-01-18 12:44:40
+Elsa Orilla,Willem Vasco-Pais,Roberts and Sons,2014-01-18 13:06:01,2014-01-18 13:06:47
+Felix Balas,Brand Tempestad,Roberts and Sons,2014-01-13 12:09:01,2014-01-13 12:10:17
+Felix Balas,Loreto Bodrogi,Roberts and Sons,2014-01-13 12:10:01,2014-01-13 12:17:17
+Felix Balas,Stenig Fusil,Roberts and Sons,2014-01-13 12:09:01,2014-01-13 12:15:17
+Felix Balas,Ada Campo-Corrente,Roberts and Sons,2014-01-14 12:03:01,2014-01-14 12:06:26
+Felix Balas,Orhan Strum,Roberts and Sons,2014-01-15 12:02:01,2014-01-15 12:02:17
+Felix Balas,Adra Nubarron,Roberts and Sons,2014-01-16 12:13:01,2014-01-16 12:13:17
+Felix Balas,Felix Resumir,Roberts and Sons,2014-01-16 12:14:01,2014-01-16 12:21:26
+Felix Balas,Hideki Cocinaro,Roberts and Sons,2014-01-16 12:17:01,2014-01-16 12:21:26
+Felix Balas,Kare Orilla,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:21:26
+Felix Balas,Sven Flecha,Roberts and Sons,2014-01-16 12:13:01,2014-01-16 12:20:26
+Felix Balas,Birgitta Frente,Roberts and Sons,2014-01-18 18:40:01,2014-01-18 18:43:09
+Felix Resumir,Hideki Cocinaro,Roberts and Sons,2014-01-11 13:01:01,2014-01-11 13:02:07
+Felix Resumir,Marin Onda,Roberts and Sons,2014-01-11 12:52:01,2014-01-11 12:56:32
+Felix Resumir,Ingrid Barranco,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:19:17
+Felix Resumir,Kare Orilla,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:23:17
+Felix Resumir,Lucas Alcazar,Roberts and Sons,2014-01-15 12:23:01,2014-01-15 12:27:26
+Felix Resumir,Sven Flecha,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:22:17
+Felix Resumir,Vira Frente,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:19:26
+Felix Resumir,Felix Balas,Roberts and Sons,2014-01-16 12:14:01,2014-01-16 12:21:26
+Felix Resumir,Hideki Cocinaro,Roberts and Sons,2014-01-16 12:17:01,2014-01-16 12:22:17
+Felix Resumir,Kare Orilla,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:22:17
+Felix Resumir,Sven Flecha,Roberts and Sons,2014-01-16 12:14:01,2014-01-16 12:20:26
+Felix Resumir,Loreto Bodrogi,Roberts and Sons,2014-01-18 12:54:01,2014-01-18 13:01:45
+Felix Resumir,Nils Calixto,Roberts and Sons,2014-01-18 12:54:01,2014-01-18 12:55:05
+Gustav Cazar,Adra Nubarron,Roberts and Sons,2014-01-07 12:19:01,2014-01-07 12:26:26
+Gustav Cazar,Brand Tempestad,Roberts and Sons,2014-01-07 12:18:01,2014-01-07 12:25:17
+Gustav Cazar,Inga Ferro,Roberts and Sons,2014-01-07 12:18:01,2014-01-07 12:26:26
+Hennie Osvaldo,Hideki Cocinaro,Roberts and Sons,2014-01-06 12:28:01,2014-01-06 12:31:17
+Hennie Osvaldo,Minke Mies,Roberts and Sons,2014-01-06 12:24:01,2014-01-06 12:31:17
+Hennie Osvaldo,Varja Lagos,Roberts and Sons,2014-01-06 12:23:01,2014-01-06 12:28:26
+Hennie Osvaldo,Axel Calzas,Roberts and Sons,2014-01-14 12:15:01,2014-01-14 12:20:17
+Hennie Osvaldo,Marin Onda,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:20:17
+Hennie Osvaldo,Minke Mies,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:20:17
+Hennie Osvaldo,Nils Calixto,Roberts and Sons,2014-01-14 12:12:01,2014-01-14 12:15:26
+Hennie Osvaldo,Stenig Fusil,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:20:17
+Hennie Osvaldo,Hideki Cocinaro,Roberts and Sons,2014-01-17 12:34:01,2014-01-17 12:35:26
+Hennie Osvaldo,Willem Vasco-Pais,Roberts and Sons,2014-01-17 12:34:01,2014-01-17 12:37:26
+Hideki Cocinaro,Hennie Osvaldo,Roberts and Sons,2014-01-06 12:28:01,2014-01-06 12:31:17
+Hideki Cocinaro,Ingrid Barranco,Roberts and Sons,2014-01-06 12:34:01,2014-01-06 12:36:17
+Hideki Cocinaro,Minke Mies,Roberts and Sons,2014-01-06 12:28:01,2014-01-06 12:32:26
+Hideki Cocinaro,Varja Lagos,Roberts and Sons,2014-01-06 12:28:01,2014-01-06 12:28:26
+Hideki Cocinaro,Edvard Vann,Roberts and Sons,2014-01-07 12:07:01,2014-01-07 12:15:26
+Hideki Cocinaro,Ingrid Barranco,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:15:26
+Hideki Cocinaro,Isak Baza,Roberts and Sons,2014-01-07 12:08:01,2014-01-07 12:15:26
+Hideki Cocinaro,Lars Azada,Roberts and Sons,2014-01-07 12:07:01,2014-01-07 12:13:17
+Hideki Cocinaro,Felix Resumir,Roberts and Sons,2014-01-11 13:01:01,2014-01-11 13:02:07
+Hideki Cocinaro,Adra Nubarron,Roberts and Sons,2014-01-11 18:25:01,2014-01-11 18:34:08
+Hideki Cocinaro,Inga Ferro,Roberts and Sons,2014-01-11 18:28:01,2014-01-11 18:35:05
+Hideki Cocinaro,Bertrand Ovan,Roberts and Sons,2014-01-16 12:25:12,2014-01-16 12:25:17
+Hideki Cocinaro,Felix Balas,Roberts and Sons,2014-01-16 12:17:01,2014-01-16 12:21:26
+Hideki Cocinaro,Felix Resumir,Roberts and Sons,2014-01-16 12:17:01,2014-01-16 12:22:17
+Hideki Cocinaro,Kare Orilla,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:25:17
+Hideki Cocinaro,Sven Flecha,Roberts and Sons,2014-01-16 12:17:01,2014-01-16 12:20:26
+Hideki Cocinaro,Hennie Osvaldo,Roberts and Sons,2014-01-17 12:34:01,2014-01-17 12:35:26
+Hideki Cocinaro,Kanon Herrero,Roberts and Sons,2014-01-17 12:27:01,2014-01-17 12:29:17
+Hideki Cocinaro,Willem Vasco-Pais,Roberts and Sons,2014-01-17 12:29:01,2014-01-17 12:35:26
+Inga Ferro,Adra Nubarron,Roberts and Sons,2014-01-07 12:19:01,2014-01-07 12:27:26
+Inga Ferro,Brand Tempestad,Roberts and Sons,2014-01-07 12:18:01,2014-01-07 12:25:17
+Inga Ferro,Gustav Cazar,Roberts and Sons,2014-01-07 12:18:01,2014-01-07 12:26:26
+Inga Ferro,Sven Flecha,Roberts and Sons,2014-01-09 12:25:01,2014-01-09 12:27:46
+Inga Ferro,Kare Orilla,Roberts and Sons,2014-01-10 12:25:01,2014-01-10 12:25:57
+Inga Ferro,Lidelse Dedos,Roberts and Sons,2014-01-10 12:19:01,2014-01-10 12:25:57
+Inga Ferro,Minke Mies,Roberts and Sons,2014-01-10 12:20:01,2014-01-10 12:22:38
+Inga Ferro,Varja Lagos,Roberts and Sons,2014-01-10 12:16:01,2014-01-10 12:23:26
+Inga Ferro,Adra Nubarron,Roberts and Sons,2014-01-11 18:28:01,2014-01-11 18:34:08
+Inga Ferro,Hideki Cocinaro,Roberts and Sons,2014-01-11 18:28:01,2014-01-11 18:35:05
+Ingrid Barranco,Hideki Cocinaro,Roberts and Sons,2014-01-06 12:34:01,2014-01-06 12:36:17
+Ingrid Barranco,Brand Tempestad,Roberts and Sons,2014-01-07 12:17:01,2014-01-07 12:17:17
+Ingrid Barranco,Edvard Vann,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:15:26
+Ingrid Barranco,Hideki Cocinaro,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:15:26
+Ingrid Barranco,Isak Baza,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:16:17
+Ingrid Barranco,Lars Azada,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:13:17
+Ingrid Barranco,Axel Calzas,Roberts and Sons,2014-01-13 12:20:01,2014-01-13 12:26:17
+Ingrid Barranco,Loreto Bodrogi,Roberts and Sons,2014-01-13 12:20:01,2014-01-13 12:21:29
+Ingrid Barranco,Felix Resumir,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:19:17
+Ingrid Barranco,Kare Orilla,Roberts and Sons,2014-01-15 12:15:01,2014-01-15 12:19:17
+Ingrid Barranco,Lidelse Dedos,Roberts and Sons,2014-01-15 12:11:01,2014-01-15 12:11:26
+Ingrid Barranco,Sven Flecha,Roberts and Sons,2014-01-15 12:14:01,2014-01-15 12:19:17
+Ingrid Barranco,Vira Frente,Roberts and Sons,2014-01-15 12:11:01,2014-01-15 12:19:17
+Isak Baza,Edvard Vann,Roberts and Sons,2014-01-07 12:08:01,2014-01-07 12:15:26
+Isak Baza,Hideki Cocinaro,Roberts and Sons,2014-01-07 12:08:01,2014-01-07 12:15:26
+Isak Baza,Ingrid Barranco,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:16:17
+Isak Baza,Lars Azada,Roberts and Sons,2014-01-07 12:08:01,2014-01-07 12:13:17
+Isak Baza,Marin Onda,Roberts and Sons,2014-01-10 11:56:01,2014-01-10 12:00:17
+Isia Vann,Minke Mies,Roberts and Sons,2014-01-16 19:18:01,2014-01-16 19:18:39
+Isia Vann,Lidelse Dedos,Roberts and Sons,2014-01-17 11:56:01,2014-01-17 12:04:17
+Isia Vann,Vira Frente,Roberts and Sons,2014-01-17 11:56:01,2014-01-17 12:01:17
+Kanon Herrero,Hideki Cocinaro,Roberts and Sons,2014-01-17 12:27:01,2014-01-17 12:29:17
+Kanon Herrero,Sten Sanjorge Jr.,Roberts and Sons,2014-01-17 12:21:01,2014-01-17 12:23:17
+Kanon Herrero,Willem Vasco-Pais,Roberts and Sons,2014-01-17 12:29:01,2014-01-17 12:29:17
+Kare Orilla,Bertrand Ovan,Roberts and Sons,2014-01-08 12:21:47,2014-01-08 12:22:26
+Kare Orilla,Willem Vasco-Pais,Roberts and Sons,2014-01-08 12:18:01,2014-01-08 12:22:26
+Kare Orilla,Sven Flecha,Roberts and Sons,2014-01-09 12:30:01,2014-01-09 12:33:26
+Kare Orilla,Inga Ferro,Roberts and Sons,2014-01-10 12:25:01,2014-01-10 12:25:57
+Kare Orilla,Lidelse Dedos,Roberts and Sons,2014-01-10 12:25:01,2014-01-10 12:27:17
+Kare Orilla,Marin Onda,Roberts and Sons,2014-01-14 12:28:01,2014-01-14 12:28:17
+Kare Orilla,Felix Resumir,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:23:17
+Kare Orilla,Ingrid Barranco,Roberts and Sons,2014-01-15 12:15:01,2014-01-15 12:19:17
+Kare Orilla,Lucas Alcazar,Roberts and Sons,2014-01-15 12:23:01,2014-01-15 12:23:17
+Kare Orilla,Sven Flecha,Roberts and Sons,2014-01-15 12:15:01,2014-01-15 12:22:17
+Kare Orilla,Vira Frente,Roberts and Sons,2014-01-15 12:15:01,2014-01-15 12:19:26
+Kare Orilla,Bertrand Ovan,Roberts and Sons,2014-01-16 12:25:12,2014-01-16 12:28:26
+Kare Orilla,Felix Balas,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:21:26
+Kare Orilla,Felix Resumir,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:22:17
+Kare Orilla,Hideki Cocinaro,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:25:17
+Kare Orilla,Sven Flecha,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:20:26
+Lars Azada,Edvard Vann,Roberts and Sons,2014-01-07 12:07:01,2014-01-07 12:13:17
+Lars Azada,Hideki Cocinaro,Roberts and Sons,2014-01-07 12:07:01,2014-01-07 12:13:17
+Lars Azada,Ingrid Barranco,Roberts and Sons,2014-01-07 12:09:01,2014-01-07 12:13:17
+Lars Azada,Isak Baza,Roberts and Sons,2014-01-07 12:08:01,2014-01-07 12:13:17
+Lars Azada,Stenig Fusil,Roberts and Sons,2014-01-08 12:01:01,2014-01-08 12:05:26
+Lidelse Dedos,Vira Frente,Roberts and Sons,2014-01-09 12:00:01,2014-01-09 12:03:26
+Lidelse Dedos,Inga Ferro,Roberts and Sons,2014-01-10 12:19:01,2014-01-10 12:25:57
+Lidelse Dedos,Kare Orilla,Roberts and Sons,2014-01-10 12:25:01,2014-01-10 12:27:17
+Lidelse Dedos,Minke Mies,Roberts and Sons,2014-01-10 12:20:01,2014-01-10 12:22:38
+Lidelse Dedos,Varja Lagos,Roberts and Sons,2014-01-10 12:19:01,2014-01-10 12:23:26
+Lidelse Dedos,Ingrid Barranco,Roberts and Sons,2014-01-15 12:11:01,2014-01-15 12:11:26
+Lidelse Dedos,Orhan Strum,Roberts and Sons,2014-01-15 12:03:01,2014-01-15 12:10:26
+Lidelse Dedos,Vira Frente,Roberts and Sons,2014-01-15 12:11:01,2014-01-15 12:11:26
+Lidelse Dedos,Isia Vann,Roberts and Sons,2014-01-17 11:56:01,2014-01-17 12:04:17
+Lidelse Dedos,Vira Frente,Roberts and Sons,2014-01-17 11:56:01,2014-01-17 12:01:17
+Linnea Bergen,Elsa Orilla,Roberts and Sons,2014-01-11 12:32:01,2014-01-11 12:37:40
+Linnea Bergen,Ada Campo-Corrente,Roberts and Sons,2014-01-18 12:23:01,2014-01-18 12:27:33
+Loreto Bodrogi,Axel Calzas,Roberts and Sons,2014-01-13 12:18:01,2014-01-13 12:21:29
+Loreto Bodrogi,Brand Tempestad,Roberts and Sons,2014-01-13 12:10:01,2014-01-13 12:10:17
+Loreto Bodrogi,Felix Balas,Roberts and Sons,2014-01-13 12:10:01,2014-01-13 12:17:17
+Loreto Bodrogi,Ingrid Barranco,Roberts and Sons,2014-01-13 12:20:01,2014-01-13 12:21:29
+Loreto Bodrogi,Stenig Fusil,Roberts and Sons,2014-01-13 12:10:01,2014-01-13 12:15:17
+Loreto Bodrogi,Felix Resumir,Roberts and Sons,2014-01-18 12:54:01,2014-01-18 13:01:45
+Loreto Bodrogi,Nils Calixto,Roberts and Sons,2014-01-18 12:51:01,2014-01-18 12:55:05
+Lucas Alcazar,Felix Resumir,Roberts and Sons,2014-01-15 12:23:01,2014-01-15 12:27:26
+Lucas Alcazar,Kare Orilla,Roberts and Sons,2014-01-15 12:23:01,2014-01-15 12:23:17
+Lucas Alcazar,Ada Campo-Corrente,Roberts and Sons,2014-01-17 12:12:01,2014-01-17 12:13:26
+Marin Onda,Adra Nubarron,Roberts and Sons,2014-01-10 12:02:01,2014-01-10 12:04:17
+Marin Onda,Isak Baza,Roberts and Sons,2014-01-10 11:56:01,2014-01-10 12:00:17
+Marin Onda,Felix Resumir,Roberts and Sons,2014-01-11 12:52:01,2014-01-11 12:56:32
+Marin Onda,Axel Calzas,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:23:26
+Marin Onda,Hennie Osvaldo,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:20:17
+Marin Onda,Kare Orilla,Roberts and Sons,2014-01-14 12:28:01,2014-01-14 12:28:17
+Marin Onda,Minke Mies,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:25:52
+Marin Onda,Stenig Fusil,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:25:17
+Minke Mies,Hennie Osvaldo,Roberts and Sons,2014-01-06 12:24:01,2014-01-06 12:31:17
+Minke Mies,Hideki Cocinaro,Roberts and Sons,2014-01-06 12:28:01,2014-01-06 12:32:26
+Minke Mies,Varja Lagos,Roberts and Sons,2014-01-06 12:24:01,2014-01-06 12:28:26
+Minke Mies,Inga Ferro,Roberts and Sons,2014-01-10 12:20:01,2014-01-10 12:22:38
+Minke Mies,Lidelse Dedos,Roberts and Sons,2014-01-10 12:20:01,2014-01-10 12:22:38
+Minke Mies,Varja Lagos,Roberts and Sons,2014-01-10 12:20:01,2014-01-10 12:22:38
+Minke Mies,Axel Calzas,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:23:26
+Minke Mies,Hennie Osvaldo,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:20:17
+Minke Mies,Marin Onda,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:25:52
+Minke Mies,Stenig Fusil,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:25:17
+Minke Mies,Isia Vann,Roberts and Sons,2014-01-16 19:18:01,2014-01-16 19:18:39
+Nils Calixto,Varja Lagos,Roberts and Sons,2014-01-09 12:14:01,2014-01-09 12:17:17
+Nils Calixto,Ada Campo-Corrente,Roberts and Sons,2014-01-14 12:07:01,2014-01-14 12:11:26
+Nils Calixto,Axel Calzas,Roberts and Sons,2014-01-14 12:15:01,2014-01-14 12:15:26
+Nils Calixto,Hennie Osvaldo,Roberts and Sons,2014-01-14 12:12:01,2014-01-14 12:15:26
+Nils Calixto,Axel Calzas,Roberts and Sons,2014-01-18 12:48:01,2014-01-18 12:48:37
+Nils Calixto,Felix Resumir,Roberts and Sons,2014-01-18 12:54:01,2014-01-18 12:55:05
+Nils Calixto,Loreto Bodrogi,Roberts and Sons,2014-01-18 12:51:01,2014-01-18 12:55:05
+Nils Calixto,Orhan Strum,Roberts and Sons,2014-01-18 12:48:01,2014-01-18 12:49:37
+Orhan Strum,Felix Balas,Roberts and Sons,2014-01-15 12:02:01,2014-01-15 12:02:17
+Orhan Strum,Lidelse Dedos,Roberts and Sons,2014-01-15 12:03:01,2014-01-15 12:10:26
+Orhan Strum,Axel Calzas,Roberts and Sons,2014-01-18 12:44:01,2014-01-18 12:48:37
+Orhan Strum,Elsa Orilla,Roberts and Sons,2014-01-18 12:43:01,2014-01-18 12:44:40
+Orhan Strum,Nils Calixto,Roberts and Sons,2014-01-18 12:48:01,2014-01-18 12:49:37
+Sten Sanjorge Jr.,Ada Campo-Corrente,Roberts and Sons,2014-01-17 12:15:01,2014-01-17 12:20:17
+Sten Sanjorge Jr.,Kanon Herrero,Roberts and Sons,2014-01-17 12:21:01,2014-01-17 12:23:17
+Stenig Fusil,Lars Azada,Roberts and Sons,2014-01-08 12:01:01,2014-01-08 12:05:26
+Stenig Fusil,Brand Tempestad,Roberts and Sons,2014-01-13 12:07:01,2014-01-13 12:10:17
+Stenig Fusil,Felix Balas,Roberts and Sons,2014-01-13 12:09:01,2014-01-13 12:15:17
+Stenig Fusil,Loreto Bodrogi,Roberts and Sons,2014-01-13 12:10:01,2014-01-13 12:15:17
+Stenig Fusil,Axel Calzas,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:23:26
+Stenig Fusil,Hennie Osvaldo,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:20:17
+Stenig Fusil,Marin Onda,Roberts and Sons,2014-01-14 12:20:01,2014-01-14 12:25:17
+Stenig Fusil,Minke Mies,Roberts and Sons,2014-01-14 12:17:01,2014-01-14 12:25:17
+Sven Flecha,Inga Ferro,Roberts and Sons,2014-01-09 12:25:01,2014-01-09 12:27:46
+Sven Flecha,Kare Orilla,Roberts and Sons,2014-01-09 12:30:01,2014-01-09 12:33:26
+Sven Flecha,Felix Resumir,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:22:17
+Sven Flecha,Ingrid Barranco,Roberts and Sons,2014-01-15 12:14:01,2014-01-15 12:19:17
+Sven Flecha,Kare Orilla,Roberts and Sons,2014-01-15 12:15:01,2014-01-15 12:22:17
+Sven Flecha,Vira Frente,Roberts and Sons,2014-01-15 12:14:01,2014-01-15 12:19:26
+Sven Flecha,Adra Nubarron,Roberts and Sons,2014-01-16 12:12:01,2014-01-16 12:13:17
+Sven Flecha,Edvard Vann,Roberts and Sons,2014-01-16 12:12:01,2014-01-16 12:12:17
+Sven Flecha,Felix Balas,Roberts and Sons,2014-01-16 12:13:01,2014-01-16 12:20:26
+Sven Flecha,Felix Resumir,Roberts and Sons,2014-01-16 12:14:01,2014-01-16 12:20:26
+Sven Flecha,Hideki Cocinaro,Roberts and Sons,2014-01-16 12:17:01,2014-01-16 12:20:26
+Sven Flecha,Kare Orilla,Roberts and Sons,2014-01-16 12:20:01,2014-01-16 12:20:26
+Varja Lagos,Adra Nubarron,Roberts and Sons,2014-01-06 12:20:01,2014-01-06 12:21:17
+Varja Lagos,Axel Calzas,Roberts and Sons,2014-01-06 12:20:01,2014-01-06 12:20:26
+Varja Lagos,Hennie Osvaldo,Roberts and Sons,2014-01-06 12:23:01,2014-01-06 12:28:26
+Varja Lagos,Hideki Cocinaro,Roberts and Sons,2014-01-06 12:28:01,2014-01-06 12:28:26
+Varja Lagos,Minke Mies,Roberts and Sons,2014-01-06 12:24:01,2014-01-06 12:28:26
+Varja Lagos,Nils Calixto,Roberts and Sons,2014-01-09 12:14:01,2014-01-09 12:17:17
+Varja Lagos,Inga Ferro,Roberts and Sons,2014-01-10 12:16:01,2014-01-10 12:23:26
+Varja Lagos,Lidelse Dedos,Roberts and Sons,2014-01-10 12:19:01,2014-01-10 12:23:26
+Varja Lagos,Minke Mies,Roberts and Sons,2014-01-10 12:20:01,2014-01-10 12:22:38
+Vira Frente,Lidelse Dedos,Roberts and Sons,2014-01-09 12:00:01,2014-01-09 12:03:26
+Vira Frente,Adra Nubarron,Roberts and Sons,2014-01-13 11:56:01,2014-01-13 12:02:17
+Vira Frente,Brand Tempestad,Roberts and Sons,2014-01-13 12:02:01,2014-01-13 12:04:17
+Vira Frente,Felix Resumir,Roberts and Sons,2014-01-15 12:19:01,2014-01-15 12:19:26
+Vira Frente,Ingrid Barranco,Roberts and Sons,2014-01-15 12:11:01,2014-01-15 12:19:17
+Vira Frente,Kare Orilla,Roberts and Sons,2014-01-15 12:15:01,2014-01-15 12:19:26
+Vira Frente,Lidelse Dedos,Roberts and Sons,2014-01-15 12:11:01,2014-01-15 12:11:26
+Vira Frente,Sven Flecha,Roberts and Sons,2014-01-15 12:14:01,2014-01-15 12:19:26
+Vira Frente,Isia Vann,Roberts and Sons,2014-01-17 11:56:01,2014-01-17 12:01:17
+Vira Frente,Lidelse Dedos,Roberts and Sons,2014-01-17 11:56:01,2014-01-17 12:01:17
+Willem Vasco-Pais,Bertrand Ovan,Roberts and Sons,2014-01-08 12:21:47,2014-01-08 12:26:17
+Willem Vasco-Pais,Birgitta Frente,Roberts and Sons,2014-01-08 12:24:01,2014-01-08 12:26:17
+Willem Vasco-Pais,Kare Orilla,Roberts and Sons,2014-01-08 12:18:01,2014-01-08 12:22:26
+Willem Vasco-Pais,Hennie Osvaldo,Roberts and Sons,2014-01-17 12:34:01,2014-01-17 12:37:26
+Willem Vasco-Pais,Hideki Cocinaro,Roberts and Sons,2014-01-17 12:29:01,2014-01-17 12:35:26
+Willem Vasco-Pais,Kanon Herrero,Roberts and Sons,2014-01-17 12:29:01,2014-01-17 12:29:17
+Willem Vasco-Pais,Elsa Orilla,Roberts and Sons,2014-01-18 13:06:01,2014-01-18 13:06:47
+Nils Calixto,Varja Lagos,Kronos Mart,2014-01-18 13:36:01,2014-01-18 13:36:43
+Varja Lagos,Nils Calixto,Kronos Mart,2014-01-18 13:36:01,2014-01-18 13:36:43
+Adra Nubarron,Birgitta Frente,Guy's Gyros,2014-01-07 17:38:01,2014-01-07 17:41:16
+Adra Nubarron,Lidelse Dedos,Guy's Gyros,2014-01-07 17:40:01,2014-01-07 17:41:16
+Adra Nubarron,Sven Flecha,Guy's Gyros,2014-01-07 17:37:01,2014-01-07 17:39:38
+Adra Nubarron,Kanon Herrero,Guy's Gyros,2014-01-08 17:39:01,2014-01-08 17:39:16
+Adra Nubarron,Sven Flecha,Guy's Gyros,2014-01-08 17:35:01,2014-01-08 17:37:38
+Adra Nubarron,Varja Lagos,Guy's Gyros,2014-01-08 20:19:01,2014-01-08 20:19:58
+Adra Nubarron,Brand Tempestad,Guy's Gyros,2014-01-09 17:39:01,2014-01-09 17:40:16
+Adra Nubarron,Felix Resumir,Guy's Gyros,2014-01-09 17:36:01,2014-01-09 17:38:16
+Adra Nubarron,Lidelse Dedos,Guy's Gyros,2014-01-09 17:36:01,2014-01-09 17:39:39
+Adra Nubarron,Minke Mies,Guy's Gyros,2014-01-09 17:40:01,2014-01-09 17:40:16
+Adra Nubarron,Linnea Bergen,Guy's Gyros,2014-01-10 17:43:01,2014-01-10 17:45:42
+Adra Nubarron,Hennie Osvaldo,Guy's Gyros,2014-01-11 20:19:01,2014-01-11 20:19:08
+Adra Nubarron,Sven Flecha,Guy's Gyros,2014-01-11 20:14:01,2014-01-11 20:16:23
+Adra Nubarron,Isande Borrasca,Guy's Gyros,2014-01-12 19:51:01,2014-01-12 20:01:01
+Adra Nubarron,Lidelse Dedos,Guy's Gyros,2014-01-13 17:53:01,2014-01-13 17:53:39
+Adra Nubarron,Linnea Bergen,Guy's Gyros,2014-01-13 17:53:01,2014-01-13 17:54:42
+Adra Nubarron,Brand Tempestad,Guy's Gyros,2014-01-13 20:45:01,2014-01-13 20:45:58
+Adra Nubarron,Linnea Bergen,Guy's Gyros,2014-01-14 17:54:01,2014-01-14 17:57:16
+Adra Nubarron,Lidelse Dedos,Guy's Gyros,2014-01-15 17:53:01,2014-01-15 17:53:39
+Adra Nubarron,Brand Tempestad,Guy's Gyros,2014-01-16 17:33:01,2014-01-16 17:35:16
+Adra Nubarron,Linnea Bergen,Guy's Gyros,2014-01-16 17:34:01,2014-01-16 17:35:16
+Adra Nubarron,Linnea Bergen,Guy's Gyros,2014-01-16 21:00:01,2014-01-16 21:02:02
+Adra Nubarron,Birgitta Frente,Guy's Gyros,2014-01-17 17:48:01,2014-01-17 17:50:39
+Adra Nubarron,Birgitta Frente,Guy's Gyros,2014-01-17 20:25:01,2014-01-17 20:30:03
+Adra Nubarron,Linnea Bergen,Guy's Gyros,2014-01-17 20:23:01,2014-01-17 20:25:02
+Adra Nubarron,Felix Resumir,Guy's Gyros,2014-01-18 20:14:01,2014-01-18 20:18:03
+Adra Nubarron,Hennie Osvaldo,Guy's Gyros,2014-01-18 20:08:01,2014-01-18 20:11:05
+Adra Nubarron,Isande Borrasca,Guy's Gyros,2014-01-18 20:07:01,2014-01-18 20:18:03
+Adra Nubarron,Hennie Osvaldo,Guy's Gyros,2014-01-19 19:46:01,2014-01-19 19:46:54
+Adra Nubarron,Varja Lagos,Guy's Gyros,2014-01-19 19:46:01,2014-01-19 19:46:53
+Bertrand Ovan,Felix Resumir,Guy's Gyros,2014-01-06 17:22:42,2014-01-06 17:26:16
+Bertrand Ovan,Brand Tempestad,Guy's Gyros,2014-01-07 17:19:52,2014-01-07 17:24:33
+Bertrand Ovan,Felix Resumir,Guy's Gyros,2014-01-07 17:20:01,2014-01-07 17:24:16
+Bertrand Ovan,Hennie Osvaldo,Guy's Gyros,2014-01-07 17:23:01,2014-01-07 17:24:33
+Bertrand Ovan,Birgitta Frente,Guy's Gyros,2014-01-07 20:43:01,2014-01-07 20:43:35
+Bertrand Ovan,Brand Tempestad,Guy's Gyros,2014-01-08 17:25:38,2014-01-08 17:27:38
+Bertrand Ovan,Hennie Osvaldo,Guy's Gyros,2014-01-08 17:25:38,2014-01-08 17:27:39
+Bertrand Ovan,Varja Lagos,Guy's Gyros,2014-01-08 17:28:01,2014-01-08 17:30:19
+Bertrand Ovan,Varja Lagos,Guy's Gyros,2014-01-09 19:37:01,2014-01-09 19:37:36
+Bertrand Ovan,Brand Tempestad,Guy's Gyros,2014-01-10 17:15:01,2014-01-10 17:16:57
+Bertrand Ovan,Sven Flecha,Guy's Gyros,2014-01-10 17:14:01,2014-01-10 17:16:57
+Bertrand Ovan,Hennie Osvaldo,Guy's Gyros,2014-01-12 20:14:27,2014-01-12 20:16:28
+Bertrand Ovan,Varja Lagos,Guy's Gyros,2014-01-13 17:14:01,2014-01-13 17:17:43
+Bertrand Ovan,Hennie Osvaldo,Guy's Gyros,2014-01-14 17:36:35,2014-01-14 17:38:39
+Bertrand Ovan,Lidelse Dedos,Guy's Gyros,2014-01-14 17:41:01,2014-01-14 17:41:16
+Bertrand Ovan,Sven Flecha,Guy's Gyros,2014-01-14 17:36:35,2014-01-14 17:39:38
+Bertrand Ovan,Birgitta Frente,Guy's Gyros,2014-01-15 17:37:58,2014-01-15 17:42:39
+Bertrand Ovan,Linnea Bergen,Guy's Gyros,2014-01-15 17:41:01,2014-01-15 17:42:39
+Bertrand Ovan,Minke Mies,Guy's Gyros,2014-01-15 17:37:58,2014-01-15 17:39:38
+Bertrand Ovan,Kanon Herrero,Guy's Gyros,2014-01-16 17:43:01,2014-01-16 17:44:25
+Bertrand Ovan,Lidelse Dedos,Guy's Gyros,2014-01-16 17:39:44,2014-01-16 17:43:39
+Bertrand Ovan,Linnea Bergen,Guy's Gyros,2014-01-18 15:44:01,2014-01-18 15:47:33
+Bertrand Ovan,Isande Borrasca,Guy's Gyros,2014-01-19 18:25:16,2014-01-19 18:25:16
+Birgitta Frente,Brand Tempestad,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:33:39
+Birgitta Frente,Lidelse Dedos,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:33:39
+Birgitta Frente,Linnea Bergen,Guy's Gyros,2014-01-06 17:30:01,2014-01-06 17:33:39
+Birgitta Frente,Varja Lagos,Guy's Gyros,2014-01-06 17:30:01,2014-01-06 17:33:39
+Birgitta Frente,Minke Mies,Guy's Gyros,2014-01-06 21:05:01,2014-01-06 21:08:05
+Birgitta Frente,Adra Nubarron,Guy's Gyros,2014-01-07 17:38:01,2014-01-07 17:41:16
+Birgitta Frente,Lidelse Dedos,Guy's Gyros,2014-01-07 17:40:01,2014-01-07 17:43:39
+Birgitta Frente,Sven Flecha,Guy's Gyros,2014-01-07 17:38:01,2014-01-07 17:39:38
+Birgitta Frente,Bertrand Ovan,Guy's Gyros,2014-01-07 20:43:01,2014-01-07 20:43:35
+Birgitta Frente,Brand Tempestad,Guy's Gyros,2014-01-08 17:22:01,2014-01-08 17:23:39
+Birgitta Frente,Hennie Osvaldo,Guy's Gyros,2014-01-08 17:22:01,2014-01-08 17:23:39
+Birgitta Frente,Hennie Osvaldo,Guy's Gyros,2014-01-09 17:46:01,2014-01-09 17:47:39
+Birgitta Frente,Brand Tempestad,Guy's Gyros,2014-01-10 17:17:01,2014-01-10 17:20:38
+Birgitta Frente,Kanon Herrero,Guy's Gyros,2014-01-10 17:22:01,2014-01-10 17:22:39
+Birgitta Frente,Sven Flecha,Guy's Gyros,2014-01-10 17:17:01,2014-01-10 17:19:38
+Birgitta Frente,Linnea Bergen,Guy's Gyros,2014-01-10 22:29:01,2014-01-10 22:31:01
+Birgitta Frente,Felix Resumir,Guy's Gyros,2014-01-13 17:39:01,2014-01-13 17:40:39
+Birgitta Frente,Hennie Osvaldo,Guy's Gyros,2014-01-13 17:35:01,2014-01-13 17:40:39
+Birgitta Frente,Lidelse Dedos,Guy's Gyros,2014-01-14 17:46:01,2014-01-14 17:46:39
+Birgitta Frente,Minke Mies,Guy's Gyros,2014-01-14 17:46:01,2014-01-14 17:51:38
+Birgitta Frente,Bertrand Ovan,Guy's Gyros,2014-01-15 17:37:58,2014-01-15 17:42:39
+Birgitta Frente,Linnea Bergen,Guy's Gyros,2014-01-15 17:41:01,2014-01-15 17:42:39
+Birgitta Frente,Minke Mies,Guy's Gyros,2014-01-15 17:37:01,2014-01-15 17:39:38
+Birgitta Frente,Brand Tempestad,Guy's Gyros,2014-01-15 20:08:01,2014-01-15 20:09:05
+Birgitta Frente,Kanon Herrero,Guy's Gyros,2014-01-15 20:07:01,2014-01-15 20:09:02
+Birgitta Frente,Felix Resumir,Guy's Gyros,2014-01-16 17:25:01,2014-01-16 17:25:39
+Birgitta Frente,Sven Flecha,Guy's Gyros,2014-01-16 17:20:01,2014-01-16 17:24:38
+Birgitta Frente,Varja Lagos,Guy's Gyros,2014-01-16 17:20:01,2014-01-16 17:23:16
+Birgitta Frente,Kanon Herrero,Guy's Gyros,2014-01-16 20:38:01,2014-01-16 20:38:05
+Birgitta Frente,Minke Mies,Guy's Gyros,2014-01-16 20:35:01,2014-01-16 20:37:19
+Birgitta Frente,Adra Nubarron,Guy's Gyros,2014-01-17 17:48:01,2014-01-17 17:50:39
+Birgitta Frente,Brand Tempestad,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:46:38
+Birgitta Frente,Kanon Herrero,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:46:42
+Birgitta Frente,Lidelse Dedos,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:45:39
+Birgitta Frente,Linnea Bergen,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:46:42
+Birgitta Frente,Minke Mies,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:47:38
+Birgitta Frente,Adra Nubarron,Guy's Gyros,2014-01-17 20:25:01,2014-01-17 20:30:03
+Birgitta Frente,Linnea Bergen,Guy's Gyros,2014-01-17 20:25:01,2014-01-17 20:25:02
+Birgitta Frente,Minke Mies,Guy's Gyros,2014-01-19 20:36:01,2014-01-19 20:38:03
+Brand Tempestad,Birgitta Frente,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:33:39
+Brand Tempestad,Lidelse Dedos,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:37:38
+Brand Tempestad,Linnea Bergen,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:34:42
+Brand Tempestad,Varja Lagos,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:36:50
+Brand Tempestad,Bertrand Ovan,Guy's Gyros,2014-01-07 17:19:52,2014-01-07 17:24:33
+Brand Tempestad,Felix Resumir,Guy's Gyros,2014-01-07 17:20:01,2014-01-07 17:24:16
+Brand Tempestad,Hennie Osvaldo,Guy's Gyros,2014-01-07 17:23:01,2014-01-07 17:24:38
+Brand Tempestad,Felix Resumir,Guy's Gyros,2014-01-07 20:21:01,2014-01-07 20:21:23
+Brand Tempestad,Lidelse Dedos,Guy's Gyros,2014-01-07 20:19:01,2014-01-07 20:20:05
+Brand Tempestad,Bertrand Ovan,Guy's Gyros,2014-01-08 17:25:38,2014-01-08 17:27:38
+Brand Tempestad,Birgitta Frente,Guy's Gyros,2014-01-08 17:22:01,2014-01-08 17:23:39
+Brand Tempestad,Hennie Osvaldo,Guy's Gyros,2014-01-08 17:22:01,2014-01-08 17:27:38
+Brand Tempestad,Adra Nubarron,Guy's Gyros,2014-01-09 17:39:01,2014-01-09 17:40:16
+Brand Tempestad,Hennie Osvaldo,Guy's Gyros,2014-01-09 17:42:01,2014-01-09 17:44:38
+Brand Tempestad,Lidelse Dedos,Guy's Gyros,2014-01-09 17:39:01,2014-01-09 17:39:39
+Brand Tempestad,Minke Mies,Guy's Gyros,2014-01-09 17:40:01,2014-01-09 17:44:38
+Brand Tempestad,Bertrand Ovan,Guy's Gyros,2014-01-10 17:15:01,2014-01-10 17:16:57
+Brand Tempestad,Birgitta Frente,Guy's Gyros,2014-01-10 17:17:01,2014-01-10 17:20:38
+Brand Tempestad,Sven Flecha,Guy's Gyros,2014-01-10 17:15:01,2014-01-10 17:19:38
+Brand Tempestad,Kanon Herrero,Guy's Gyros,2014-01-10 23:37:01,2014-01-10 23:44:01
+Brand Tempestad,Lidelse Dedos,Guy's Gyros,2014-01-10 23:37:01,2014-01-10 23:39:30
+Brand Tempestad,Kanon Herrero,Guy's Gyros,2014-01-11 19:33:01,2014-01-11 19:35:02
+Brand Tempestad,Sven Flecha,Guy's Gyros,2014-01-13 17:29:01,2014-01-13 17:33:38
+Brand Tempestad,Adra Nubarron,Guy's Gyros,2014-01-13 20:45:01,2014-01-13 20:45:58
+Brand Tempestad,Felix Resumir,Guy's Gyros,2014-01-14 17:30:01,2014-01-14 17:30:38
+Brand Tempestad,Kanon Herrero,Guy's Gyros,2014-01-14 17:25:01,2014-01-14 17:25:42
+Brand Tempestad,Varja Lagos,Guy's Gyros,2014-01-14 17:26:01,2014-01-14 17:30:16
+Brand Tempestad,Kanon Herrero,Guy's Gyros,2014-01-15 17:26:01,2014-01-15 17:29:38
+Brand Tempestad,Sven Flecha,Guy's Gyros,2014-01-15 17:24:01,2014-01-15 17:28:38
+Brand Tempestad,Birgitta Frente,Guy's Gyros,2014-01-15 20:08:01,2014-01-15 20:09:05
+Brand Tempestad,Kanon Herrero,Guy's Gyros,2014-01-15 20:08:01,2014-01-15 20:09:02
+Brand Tempestad,Adra Nubarron,Guy's Gyros,2014-01-16 17:33:01,2014-01-16 17:35:16
+Brand Tempestad,Lidelse Dedos,Guy's Gyros,2014-01-16 17:38:01,2014-01-16 17:38:38
+Brand Tempestad,Linnea Bergen,Guy's Gyros,2014-01-16 17:34:01,2014-01-16 17:38:38
+Brand Tempestad,Felix Resumir,Guy's Gyros,2014-01-16 20:15:01,2014-01-16 20:15:58
+Brand Tempestad,Birgitta Frente,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:46:38
+Brand Tempestad,Felix Resumir,Guy's Gyros,2014-01-17 17:41:01,2014-01-17 17:43:16
+Brand Tempestad,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:41:01,2014-01-17 17:43:39
+Brand Tempestad,Kanon Herrero,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:38
+Brand Tempestad,Lidelse Dedos,Guy's Gyros,2014-01-17 17:41:01,2014-01-17 17:45:39
+Brand Tempestad,Linnea Bergen,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:38
+Brand Tempestad,Minke Mies,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:38
+Felix Resumir,Bertrand Ovan,Guy's Gyros,2014-01-06 17:22:42,2014-01-06 17:26:16
+Felix Resumir,Bertrand Ovan,Guy's Gyros,2014-01-07 17:20:01,2014-01-07 17:24:16
+Felix Resumir,Brand Tempestad,Guy's Gyros,2014-01-07 17:20:01,2014-01-07 17:24:16
+Felix Resumir,Hennie Osvaldo,Guy's Gyros,2014-01-07 17:23:01,2014-01-07 17:24:16
+Felix Resumir,Brand Tempestad,Guy's Gyros,2014-01-07 20:21:01,2014-01-07 20:21:23
+Felix Resumir,Kanon Herrero,Guy's Gyros,2014-01-08 17:41:01,2014-01-08 17:43:42
+Felix Resumir,Lidelse Dedos,Guy's Gyros,2014-01-08 17:43:01,2014-01-08 17:45:16
+Felix Resumir,Minke Mies,Guy's Gyros,2014-01-08 17:44:01,2014-01-08 17:45:16
+Felix Resumir,Adra Nubarron,Guy's Gyros,2014-01-09 17:36:01,2014-01-09 17:38:16
+Felix Resumir,Lidelse Dedos,Guy's Gyros,2014-01-09 17:34:01,2014-01-09 17:38:16
+Felix Resumir,Hennie Osvaldo,Guy's Gyros,2014-01-10 17:29:01,2014-01-10 17:31:39
+Felix Resumir,Varja Lagos,Guy's Gyros,2014-01-10 17:30:01,2014-01-10 17:33:16
+Felix Resumir,Birgitta Frente,Guy's Gyros,2014-01-13 17:39:01,2014-01-13 17:40:39
+Felix Resumir,Hennie Osvaldo,Guy's Gyros,2014-01-13 17:39:01,2014-01-13 17:40:39
+Felix Resumir,Brand Tempestad,Guy's Gyros,2014-01-14 17:30:01,2014-01-14 17:30:38
+Felix Resumir,Hennie Osvaldo,Guy's Gyros,2014-01-14 17:33:01,2014-01-14 17:34:16
+Felix Resumir,Sven Flecha,Guy's Gyros,2014-01-14 17:34:01,2014-01-14 17:34:16
+Felix Resumir,Varja Lagos,Guy's Gyros,2014-01-14 17:30:01,2014-01-14 17:30:16
+Felix Resumir,Birgitta Frente,Guy's Gyros,2014-01-16 17:25:01,2014-01-16 17:25:39
+Felix Resumir,Brand Tempestad,Guy's Gyros,2014-01-16 20:15:01,2014-01-16 20:15:58
+Felix Resumir,Brand Tempestad,Guy's Gyros,2014-01-17 17:41:01,2014-01-17 17:43:16
+Felix Resumir,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:39:01,2014-01-17 17:43:16
+Felix Resumir,Kanon Herrero,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:16
+Felix Resumir,Lidelse Dedos,Guy's Gyros,2014-01-17 17:40:01,2014-01-17 17:43:16
+Felix Resumir,Linnea Bergen,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:16
+Felix Resumir,Minke Mies,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:16
+Felix Resumir,Adra Nubarron,Guy's Gyros,2014-01-18 20:14:01,2014-01-18 20:18:03
+Felix Resumir,Isande Borrasca,Guy's Gyros,2014-01-18 20:14:01,2014-01-18 20:18:03
+Hennie Osvaldo,Kanon Herrero,Guy's Gyros,2014-01-06 17:43:01,2014-01-06 17:43:42
+Hennie Osvaldo,Minke Mies,Guy's Gyros,2014-01-06 17:43:01,2014-01-06 17:44:38
+Hennie Osvaldo,Bertrand Ovan,Guy's Gyros,2014-01-07 17:23:01,2014-01-07 17:24:33
+Hennie Osvaldo,Brand Tempestad,Guy's Gyros,2014-01-07 17:23:01,2014-01-07 17:24:38
+Hennie Osvaldo,Felix Resumir,Guy's Gyros,2014-01-07 17:23:01,2014-01-07 17:24:16
+Hennie Osvaldo,Varja Lagos,Guy's Gyros,2014-01-07 17:28:01,2014-01-07 17:28:39
+Hennie Osvaldo,Bertrand Ovan,Guy's Gyros,2014-01-08 17:25:38,2014-01-08 17:27:39
+Hennie Osvaldo,Birgitta Frente,Guy's Gyros,2014-01-08 17:22:01,2014-01-08 17:23:39
+Hennie Osvaldo,Brand Tempestad,Guy's Gyros,2014-01-08 17:22:01,2014-01-08 17:27:38
+Hennie Osvaldo,Birgitta Frente,Guy's Gyros,2014-01-09 17:46:01,2014-01-09 17:47:39
+Hennie Osvaldo,Brand Tempestad,Guy's Gyros,2014-01-09 17:42:01,2014-01-09 17:44:38
+Hennie Osvaldo,Minke Mies,Guy's Gyros,2014-01-09 17:42:01,2014-01-09 17:45:38
+Hennie Osvaldo,Inga Ferro,Guy's Gyros,2014-01-10 11:23:01,2014-01-10 11:26:58
+Hennie Osvaldo,Felix Resumir,Guy's Gyros,2014-01-10 17:29:01,2014-01-10 17:31:39
+Hennie Osvaldo,Kanon Herrero,Guy's Gyros,2014-01-10 17:26:01,2014-01-10 17:26:42
+Hennie Osvaldo,Varja Lagos,Guy's Gyros,2014-01-10 17:30:01,2014-01-10 17:31:39
+Hennie Osvaldo,Adra Nubarron,Guy's Gyros,2014-01-11 20:19:01,2014-01-11 20:19:08
+Hennie Osvaldo,Bertrand Ovan,Guy's Gyros,2014-01-12 20:14:27,2014-01-12 20:16:28
+Hennie Osvaldo,Birgitta Frente,Guy's Gyros,2014-01-13 17:35:01,2014-01-13 17:40:39
+Hennie Osvaldo,Felix Resumir,Guy's Gyros,2014-01-13 17:39:01,2014-01-13 17:40:39
+Hennie Osvaldo,Bertrand Ovan,Guy's Gyros,2014-01-14 17:36:35,2014-01-14 17:38:39
+Hennie Osvaldo,Felix Resumir,Guy's Gyros,2014-01-14 17:33:01,2014-01-14 17:34:16
+Hennie Osvaldo,Sven Flecha,Guy's Gyros,2014-01-14 17:34:01,2014-01-14 17:38:39
+Hennie Osvaldo,Kanon Herrero,Guy's Gyros,2014-01-15 17:30:01,2014-01-15 17:30:42
+Hennie Osvaldo,Minke Mies,Guy's Gyros,2014-01-15 17:34:01,2014-01-15 17:35:39
+Hennie Osvaldo,Kanon Herrero,Guy's Gyros,2014-01-16 17:45:01,2014-01-16 17:47:42
+Hennie Osvaldo,Minke Mies,Guy's Gyros,2014-01-16 17:47:01,2014-01-16 17:50:39
+Hennie Osvaldo,Brand Tempestad,Guy's Gyros,2014-01-17 17:41:01,2014-01-17 17:43:39
+Hennie Osvaldo,Felix Resumir,Guy's Gyros,2014-01-17 17:39:01,2014-01-17 17:43:16
+Hennie Osvaldo,Kanon Herrero,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:39
+Hennie Osvaldo,Lidelse Dedos,Guy's Gyros,2014-01-17 17:40:01,2014-01-17 17:43:39
+Hennie Osvaldo,Linnea Bergen,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:39
+Hennie Osvaldo,Minke Mies,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:39
+Hennie Osvaldo,Sven Flecha,Guy's Gyros,2014-01-17 17:38:01,2014-01-17 17:38:38
+Hennie Osvaldo,Adra Nubarron,Guy's Gyros,2014-01-18 20:08:01,2014-01-18 20:11:05
+Hennie Osvaldo,Isande Borrasca,Guy's Gyros,2014-01-18 20:08:01,2014-01-18 20:11:05
+Hennie Osvaldo,Adra Nubarron,Guy's Gyros,2014-01-19 19:46:01,2014-01-19 19:46:54
+Hennie Osvaldo,Varja Lagos,Guy's Gyros,2014-01-19 19:46:01,2014-01-19 19:46:53
+Inga Ferro,Hennie Osvaldo,Guy's Gyros,2014-01-10 11:23:01,2014-01-10 11:26:58
+Isande Borrasca,Adra Nubarron,Guy's Gyros,2014-01-12 19:51:01,2014-01-12 20:01:01
+Isande Borrasca,Adra Nubarron,Guy's Gyros,2014-01-18 20:07:01,2014-01-18 20:18:03
+Isande Borrasca,Felix Resumir,Guy's Gyros,2014-01-18 20:14:01,2014-01-18 20:18:03
+Isande Borrasca,Hennie Osvaldo,Guy's Gyros,2014-01-18 20:08:01,2014-01-18 20:11:05
+Isande Borrasca,Bertrand Ovan,Guy's Gyros,2014-01-19 18:25:16,2014-01-19 18:25:16
+Kanon Herrero,Hennie Osvaldo,Guy's Gyros,2014-01-06 17:43:01,2014-01-06 17:43:42
+Kanon Herrero,Minke Mies,Guy's Gyros,2014-01-06 17:39:01,2014-01-06 17:43:42
+Kanon Herrero,Sven Flecha,Guy's Gyros,2014-01-07 17:34:01,2014-01-07 17:35:42
+Kanon Herrero,Varja Lagos,Guy's Gyros,2014-01-07 17:31:01,2014-01-07 17:32:16
+Kanon Herrero,Linnea Bergen,Guy's Gyros,2014-01-07 20:14:01,2014-01-07 20:15:02
+Kanon Herrero,Sven Flecha,Guy's Gyros,2014-01-07 20:14:01,2014-01-07 20:14:23
+Kanon Herrero,Adra Nubarron,Guy's Gyros,2014-01-08 17:39:01,2014-01-08 17:39:16
+Kanon Herrero,Felix Resumir,Guy's Gyros,2014-01-08 17:41:01,2014-01-08 17:43:42
+Kanon Herrero,Lidelse Dedos,Guy's Gyros,2014-01-08 17:43:01,2014-01-08 17:43:42
+Kanon Herrero,Linnea Bergen,Guy's Gyros,2014-01-09 17:28:01,2014-01-09 17:30:42
+Kanon Herrero,Sven Flecha,Guy's Gyros,2014-01-09 17:28:01,2014-01-09 17:30:42
+Kanon Herrero,Birgitta Frente,Guy's Gyros,2014-01-10 17:22:01,2014-01-10 17:22:39
+Kanon Herrero,Hennie Osvaldo,Guy's Gyros,2014-01-10 17:26:01,2014-01-10 17:26:42
+Kanon Herrero,Brand Tempestad,Guy's Gyros,2014-01-10 23:37:01,2014-01-10 23:44:01
+Kanon Herrero,Lidelse Dedos,Guy's Gyros,2014-01-10 23:33:01,2014-01-10 23:39:30
+Kanon Herrero,Brand Tempestad,Guy's Gyros,2014-01-11 19:33:01,2014-01-11 19:35:02
+Kanon Herrero,Brand Tempestad,Guy's Gyros,2014-01-14 17:25:01,2014-01-14 17:25:42
+Kanon Herrero,Brand Tempestad,Guy's Gyros,2014-01-15 17:26:01,2014-01-15 17:29:38
+Kanon Herrero,Hennie Osvaldo,Guy's Gyros,2014-01-15 17:30:01,2014-01-15 17:30:42
+Kanon Herrero,Sven Flecha,Guy's Gyros,2014-01-15 17:26:01,2014-01-15 17:28:38
+Kanon Herrero,Birgitta Frente,Guy's Gyros,2014-01-15 20:07:01,2014-01-15 20:09:02
+Kanon Herrero,Brand Tempestad,Guy's Gyros,2014-01-15 20:08:01,2014-01-15 20:09:02
+Kanon Herrero,Bertrand Ovan,Guy's Gyros,2014-01-16 17:43:01,2014-01-16 17:44:25
+Kanon Herrero,Hennie Osvaldo,Guy's Gyros,2014-01-16 17:45:01,2014-01-16 17:47:42
+Kanon Herrero,Lidelse Dedos,Guy's Gyros,2014-01-16 17:43:01,2014-01-16 17:43:39
+Kanon Herrero,Minke Mies,Guy's Gyros,2014-01-16 17:47:01,2014-01-16 17:47:42
+Kanon Herrero,Birgitta Frente,Guy's Gyros,2014-01-16 20:38:01,2014-01-16 20:38:05
+Kanon Herrero,Birgitta Frente,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:46:42
+Kanon Herrero,Brand Tempestad,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:38
+Kanon Herrero,Felix Resumir,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:16
+Kanon Herrero,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:39
+Kanon Herrero,Lidelse Dedos,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:45:39
+Kanon Herrero,Linnea Bergen,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:42
+Kanon Herrero,Minke Mies,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:42
+Lidelse Dedos,Birgitta Frente,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:33:39
+Lidelse Dedos,Brand Tempestad,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:37:38
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:34:42
+Lidelse Dedos,Varja Lagos,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:36:50
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-06 20:14:01,2014-01-06 20:16:02
+Lidelse Dedos,Adra Nubarron,Guy's Gyros,2014-01-07 17:40:01,2014-01-07 17:41:16
+Lidelse Dedos,Birgitta Frente,Guy's Gyros,2014-01-07 17:40:01,2014-01-07 17:43:39
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-07 17:45:01,2014-01-07 17:45:39
+Lidelse Dedos,Brand Tempestad,Guy's Gyros,2014-01-07 20:19:01,2014-01-07 20:20:05
+Lidelse Dedos,Felix Resumir,Guy's Gyros,2014-01-08 17:43:01,2014-01-08 17:45:16
+Lidelse Dedos,Kanon Herrero,Guy's Gyros,2014-01-08 17:43:01,2014-01-08 17:43:42
+Lidelse Dedos,Minke Mies,Guy's Gyros,2014-01-08 17:44:01,2014-01-08 17:48:39
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-08 21:17:01,2014-01-08 21:17:02
+Lidelse Dedos,Adra Nubarron,Guy's Gyros,2014-01-09 17:36:01,2014-01-09 17:39:39
+Lidelse Dedos,Brand Tempestad,Guy's Gyros,2014-01-09 17:39:01,2014-01-09 17:39:39
+Lidelse Dedos,Felix Resumir,Guy's Gyros,2014-01-09 17:34:01,2014-01-09 17:38:16
+Lidelse Dedos,Minke Mies,Guy's Gyros,2014-01-10 17:52:01,2014-01-10 17:54:39
+Lidelse Dedos,Brand Tempestad,Guy's Gyros,2014-01-10 23:37:01,2014-01-10 23:39:30
+Lidelse Dedos,Kanon Herrero,Guy's Gyros,2014-01-10 23:33:01,2014-01-10 23:39:30
+Lidelse Dedos,Adra Nubarron,Guy's Gyros,2014-01-13 17:53:01,2014-01-13 17:53:39
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-13 17:50:01,2014-01-13 17:53:39
+Lidelse Dedos,Bertrand Ovan,Guy's Gyros,2014-01-14 17:41:01,2014-01-14 17:41:16
+Lidelse Dedos,Birgitta Frente,Guy's Gyros,2014-01-14 17:46:01,2014-01-14 17:46:39
+Lidelse Dedos,Minke Mies,Guy's Gyros,2014-01-14 17:46:01,2014-01-14 17:46:39
+Lidelse Dedos,Adra Nubarron,Guy's Gyros,2014-01-15 17:53:01,2014-01-15 17:53:39
+Lidelse Dedos,Bertrand Ovan,Guy's Gyros,2014-01-16 17:39:44,2014-01-16 17:43:39
+Lidelse Dedos,Brand Tempestad,Guy's Gyros,2014-01-16 17:38:01,2014-01-16 17:38:38
+Lidelse Dedos,Kanon Herrero,Guy's Gyros,2014-01-16 17:43:01,2014-01-16 17:43:39
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-16 17:38:01,2014-01-16 17:38:42
+Lidelse Dedos,Birgitta Frente,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:45:39
+Lidelse Dedos,Brand Tempestad,Guy's Gyros,2014-01-17 17:41:01,2014-01-17 17:45:39
+Lidelse Dedos,Felix Resumir,Guy's Gyros,2014-01-17 17:40:01,2014-01-17 17:43:16
+Lidelse Dedos,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:40:01,2014-01-17 17:43:39
+Lidelse Dedos,Kanon Herrero,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:45:39
+Lidelse Dedos,Linnea Bergen,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:45:39
+Lidelse Dedos,Minke Mies,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:45:39
+Lidelse Dedos,Minke Mies,Guy's Gyros,2014-01-18 19:38:01,2014-01-18 19:40:05
+Linnea Bergen,Birgitta Frente,Guy's Gyros,2014-01-06 17:30:01,2014-01-06 17:33:39
+Linnea Bergen,Brand Tempestad,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:34:42
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:34:42
+Linnea Bergen,Varja Lagos,Guy's Gyros,2014-01-06 17:30:01,2014-01-06 17:34:42
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-06 20:14:01,2014-01-06 20:16:02
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-07 17:45:01,2014-01-07 17:45:39
+Linnea Bergen,Kanon Herrero,Guy's Gyros,2014-01-07 20:14:01,2014-01-07 20:15:02
+Linnea Bergen,Sven Flecha,Guy's Gyros,2014-01-07 20:13:01,2014-01-07 20:14:23
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-08 21:17:01,2014-01-08 21:17:02
+Linnea Bergen,Kanon Herrero,Guy's Gyros,2014-01-09 17:28:01,2014-01-09 17:30:42
+Linnea Bergen,Sven Flecha,Guy's Gyros,2014-01-09 17:28:01,2014-01-09 17:32:42
+Linnea Bergen,Adra Nubarron,Guy's Gyros,2014-01-10 17:43:01,2014-01-10 17:45:42
+Linnea Bergen,Birgitta Frente,Guy's Gyros,2014-01-10 22:29:01,2014-01-10 22:31:01
+Linnea Bergen,Sven Flecha,Guy's Gyros,2014-01-12 19:27:01,2014-01-12 19:28:02
+Linnea Bergen,Adra Nubarron,Guy's Gyros,2014-01-13 17:53:01,2014-01-13 17:54:42
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-13 17:50:01,2014-01-13 17:53:39
+Linnea Bergen,Adra Nubarron,Guy's Gyros,2014-01-14 17:54:01,2014-01-14 17:57:16
+Linnea Bergen,Bertrand Ovan,Guy's Gyros,2014-01-15 17:41:01,2014-01-15 17:42:39
+Linnea Bergen,Birgitta Frente,Guy's Gyros,2014-01-15 17:41:01,2014-01-15 17:42:39
+Linnea Bergen,Adra Nubarron,Guy's Gyros,2014-01-16 17:34:01,2014-01-16 17:35:16
+Linnea Bergen,Brand Tempestad,Guy's Gyros,2014-01-16 17:34:01,2014-01-16 17:38:38
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-16 17:38:01,2014-01-16 17:38:42
+Linnea Bergen,Adra Nubarron,Guy's Gyros,2014-01-16 21:00:01,2014-01-16 21:02:02
+Linnea Bergen,Birgitta Frente,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:46:42
+Linnea Bergen,Brand Tempestad,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:38
+Linnea Bergen,Felix Resumir,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:16
+Linnea Bergen,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:39
+Linnea Bergen,Kanon Herrero,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:42
+Linnea Bergen,Lidelse Dedos,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:45:39
+Linnea Bergen,Minke Mies,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:42
+Linnea Bergen,Adra Nubarron,Guy's Gyros,2014-01-17 20:23:01,2014-01-17 20:25:02
+Linnea Bergen,Birgitta Frente,Guy's Gyros,2014-01-17 20:25:01,2014-01-17 20:25:02
+Linnea Bergen,Bertrand Ovan,Guy's Gyros,2014-01-18 15:44:01,2014-01-18 15:47:33
+Minke Mies,Hennie Osvaldo,Guy's Gyros,2014-01-06 17:43:01,2014-01-06 17:44:38
+Minke Mies,Kanon Herrero,Guy's Gyros,2014-01-06 17:39:01,2014-01-06 17:43:42
+Minke Mies,Birgitta Frente,Guy's Gyros,2014-01-06 21:05:01,2014-01-06 21:08:05
+Minke Mies,Felix Resumir,Guy's Gyros,2014-01-08 17:44:01,2014-01-08 17:45:16
+Minke Mies,Lidelse Dedos,Guy's Gyros,2014-01-08 17:44:01,2014-01-08 17:48:39
+Minke Mies,Adra Nubarron,Guy's Gyros,2014-01-09 17:40:01,2014-01-09 17:40:16
+Minke Mies,Brand Tempestad,Guy's Gyros,2014-01-09 17:40:01,2014-01-09 17:44:38
+Minke Mies,Hennie Osvaldo,Guy's Gyros,2014-01-09 17:42:01,2014-01-09 17:45:38
+Minke Mies,Lidelse Dedos,Guy's Gyros,2014-01-10 17:52:01,2014-01-10 17:54:39
+Minke Mies,Birgitta Frente,Guy's Gyros,2014-01-14 17:46:01,2014-01-14 17:51:38
+Minke Mies,Lidelse Dedos,Guy's Gyros,2014-01-14 17:46:01,2014-01-14 17:46:39
+Minke Mies,Bertrand Ovan,Guy's Gyros,2014-01-15 17:37:58,2014-01-15 17:39:38
+Minke Mies,Birgitta Frente,Guy's Gyros,2014-01-15 17:37:01,2014-01-15 17:39:38
+Minke Mies,Hennie Osvaldo,Guy's Gyros,2014-01-15 17:34:01,2014-01-15 17:35:39
+Minke Mies,Hennie Osvaldo,Guy's Gyros,2014-01-16 17:47:01,2014-01-16 17:50:39
+Minke Mies,Kanon Herrero,Guy's Gyros,2014-01-16 17:47:01,2014-01-16 17:47:42
+Minke Mies,Birgitta Frente,Guy's Gyros,2014-01-16 20:35:01,2014-01-16 20:37:19
+Minke Mies,Birgitta Frente,Guy's Gyros,2014-01-17 17:45:01,2014-01-17 17:47:38
+Minke Mies,Brand Tempestad,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:38
+Minke Mies,Felix Resumir,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:16
+Minke Mies,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:43:39
+Minke Mies,Kanon Herrero,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:42
+Minke Mies,Lidelse Dedos,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:45:39
+Minke Mies,Linnea Bergen,Guy's Gyros,2014-01-17 17:42:01,2014-01-17 17:46:42
+Minke Mies,Lidelse Dedos,Guy's Gyros,2014-01-18 19:38:01,2014-01-18 19:40:05
+Minke Mies,Birgitta Frente,Guy's Gyros,2014-01-19 20:36:01,2014-01-19 20:38:03
+Sven Flecha,Adra Nubarron,Guy's Gyros,2014-01-07 17:37:01,2014-01-07 17:39:38
+Sven Flecha,Birgitta Frente,Guy's Gyros,2014-01-07 17:38:01,2014-01-07 17:39:38
+Sven Flecha,Kanon Herrero,Guy's Gyros,2014-01-07 17:34:01,2014-01-07 17:35:42
+Sven Flecha,Kanon Herrero,Guy's Gyros,2014-01-07 20:14:01,2014-01-07 20:14:23
+Sven Flecha,Linnea Bergen,Guy's Gyros,2014-01-07 20:13:01,2014-01-07 20:14:23
+Sven Flecha,Adra Nubarron,Guy's Gyros,2014-01-08 17:35:01,2014-01-08 17:37:38
+Sven Flecha,Varja Lagos,Guy's Gyros,2014-01-08 17:32:01,2014-01-08 17:32:16
+Sven Flecha,Kanon Herrero,Guy's Gyros,2014-01-09 17:28:01,2014-01-09 17:30:42
+Sven Flecha,Linnea Bergen,Guy's Gyros,2014-01-09 17:28:01,2014-01-09 17:32:42
+Sven Flecha,Bertrand Ovan,Guy's Gyros,2014-01-10 17:14:01,2014-01-10 17:16:57
+Sven Flecha,Birgitta Frente,Guy's Gyros,2014-01-10 17:17:01,2014-01-10 17:19:38
+Sven Flecha,Brand Tempestad,Guy's Gyros,2014-01-10 17:15:01,2014-01-10 17:19:38
+Sven Flecha,Adra Nubarron,Guy's Gyros,2014-01-11 20:14:01,2014-01-11 20:16:23
+Sven Flecha,Linnea Bergen,Guy's Gyros,2014-01-12 19:27:01,2014-01-12 19:28:02
+Sven Flecha,Brand Tempestad,Guy's Gyros,2014-01-13 17:29:01,2014-01-13 17:33:38
+Sven Flecha,Bertrand Ovan,Guy's Gyros,2014-01-14 17:36:35,2014-01-14 17:39:38
+Sven Flecha,Felix Resumir,Guy's Gyros,2014-01-14 17:34:01,2014-01-14 17:34:16
+Sven Flecha,Hennie Osvaldo,Guy's Gyros,2014-01-14 17:34:01,2014-01-14 17:38:39
+Sven Flecha,Brand Tempestad,Guy's Gyros,2014-01-15 17:24:01,2014-01-15 17:28:38
+Sven Flecha,Kanon Herrero,Guy's Gyros,2014-01-15 17:26:01,2014-01-15 17:28:38
+Sven Flecha,Birgitta Frente,Guy's Gyros,2014-01-16 17:20:01,2014-01-16 17:24:38
+Sven Flecha,Varja Lagos,Guy's Gyros,2014-01-16 17:19:01,2014-01-16 17:23:16
+Sven Flecha,Varja Lagos,Guy's Gyros,2014-01-16 19:10:01,2014-01-16 19:10:58
+Sven Flecha,Hennie Osvaldo,Guy's Gyros,2014-01-17 17:38:01,2014-01-17 17:38:38
+Varja Lagos,Birgitta Frente,Guy's Gyros,2014-01-06 17:30:01,2014-01-06 17:33:39
+Varja Lagos,Brand Tempestad,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:36:50
+Varja Lagos,Lidelse Dedos,Guy's Gyros,2014-01-06 17:32:01,2014-01-06 17:36:50
+Varja Lagos,Linnea Bergen,Guy's Gyros,2014-01-06 17:30:01,2014-01-06 17:34:42
+Varja Lagos,Hennie Osvaldo,Guy's Gyros,2014-01-07 17:28:01,2014-01-07 17:28:39
+Varja Lagos,Kanon Herrero,Guy's Gyros,2014-01-07 17:31:01,2014-01-07 17:32:16
+Varja Lagos,Bertrand Ovan,Guy's Gyros,2014-01-08 17:28:01,2014-01-08 17:30:19
+Varja Lagos,Sven Flecha,Guy's Gyros,2014-01-08 17:32:01,2014-01-08 17:32:16
+Varja Lagos,Adra Nubarron,Guy's Gyros,2014-01-08 20:19:01,2014-01-08 20:19:58
+Varja Lagos,Bertrand Ovan,Guy's Gyros,2014-01-09 19:37:01,2014-01-09 19:37:36
+Varja Lagos,Felix Resumir,Guy's Gyros,2014-01-10 17:30:01,2014-01-10 17:33:16
+Varja Lagos,Hennie Osvaldo,Guy's Gyros,2014-01-10 17:30:01,2014-01-10 17:31:39
+Varja Lagos,Bertrand Ovan,Guy's Gyros,2014-01-13 17:14:01,2014-01-13 17:17:43
+Varja Lagos,Brand Tempestad,Guy's Gyros,2014-01-14 17:26:01,2014-01-14 17:30:16
+Varja Lagos,Felix Resumir,Guy's Gyros,2014-01-14 17:30:01,2014-01-14 17:30:16
+Varja Lagos,Birgitta Frente,Guy's Gyros,2014-01-16 17:20:01,2014-01-16 17:23:16
+Varja Lagos,Sven Flecha,Guy's Gyros,2014-01-16 17:19:01,2014-01-16 17:23:16
+Varja Lagos,Sven Flecha,Guy's Gyros,2014-01-16 19:10:01,2014-01-16 19:10:58
+Varja Lagos,Adra Nubarron,Guy's Gyros,2014-01-19 19:46:01,2014-01-19 19:46:53
+Varja Lagos,Hennie Osvaldo,Guy's Gyros,2014-01-19 19:46:01,2014-01-19 19:46:53
+Axel Calzas,Felix Resumir,Brew've Been Served,2014-01-09 19:15:01,2014-01-09 19:16:10
+Axel Calzas,Linnea Bergen,Brew've Been Served,2014-01-09 19:06:01,2014-01-09 19:06:53
+Axel Calzas,Minke Mies,Brew've Been Served,2014-01-09 19:06:01,2014-01-09 19:06:23
+Axel Calzas,Sven Flecha,Brew've Been Served,2014-01-10 12:17:01,2014-01-10 12:17:42
+Birgitta Frente,Elsa Orilla,Brew've Been Served,2014-01-07 12:09:01,2014-01-07 12:11:42
+Birgitta Frente,Felix Balas,Brew've Been Served,2014-01-07 12:11:01,2014-01-07 12:11:42
+Birgitta Frente,Lars Azada,Brew've Been Served,2014-01-09 12:20:01,2014-01-09 12:21:42
+Birgitta Frente,Lidelse Dedos,Brew've Been Served,2014-01-14 12:07:01,2014-01-14 12:08:42
+Brand Tempestad,Isia Vann,Brew've Been Served,2014-01-13 19:17:01,2014-01-13 19:18:05
+Brand Tempestad,Loreto Bodrogi,Brew've Been Served,2014-01-15 19:08:01,2014-01-15 19:09:05
+Brand Tempestad,Felix Resumir,Brew've Been Served,2014-01-16 18:49:01,2014-01-16 18:49:58
+Brand Tempestad,Stenig Fusil,Brew've Been Served,2014-01-16 18:50:01,2014-01-16 18:50:23
+Edvard Vann,Inga Ferro,Brew've Been Served,2014-01-13 19:12:01,2014-01-13 19:12:55
+Edvard Vann,Sven Flecha,Brew've Been Served,2014-01-14 18:42:01,2014-01-14 18:44:23
+Edvard Vann,Lars Azada,Brew've Been Served,2014-01-15 12:18:01,2014-01-15 12:21:42
+Edvard Vann,Sven Flecha,Brew've Been Served,2014-01-16 18:18:01,2014-01-16 18:19:23
+Elsa Orilla,Birgitta Frente,Brew've Been Served,2014-01-07 12:09:01,2014-01-07 12:11:42
+Elsa Orilla,Felix Balas,Brew've Been Served,2014-01-07 12:11:01,2014-01-07 12:12:42
+Elsa Orilla,Isia Vann,Brew've Been Served,2014-01-15 19:02:01,2014-01-15 19:03:02
+Elsa Orilla,Lidelse Dedos,Brew've Been Served,2014-01-15 18:51:01,2014-01-15 18:52:08
+Elsa Orilla,Sven Flecha,Brew've Been Served,2014-01-15 18:57:01,2014-01-15 18:59:23
+Felix Balas,Birgitta Frente,Brew've Been Served,2014-01-07 12:11:01,2014-01-07 12:11:42
+Felix Balas,Elsa Orilla,Brew've Been Served,2014-01-07 12:11:01,2014-01-07 12:12:42
+Felix Resumir,Inga Ferro,Brew've Been Served,2014-01-07 18:37:01,2014-01-07 18:37:05
+Felix Resumir,Sven Flecha,Brew've Been Served,2014-01-08 19:23:01,2014-01-08 19:23:23
+Felix Resumir,Axel Calzas,Brew've Been Served,2014-01-09 19:15:01,2014-01-09 19:16:10
+Felix Resumir,Stenig Fusil,Brew've Been Served,2014-01-11 18:52:01,2014-01-11 18:52:47
+Felix Resumir,Sven Flecha,Brew've Been Served,2014-01-11 18:52:01,2014-01-11 18:53:10
+Felix Resumir,Brand Tempestad,Brew've Been Served,2014-01-16 18:49:01,2014-01-16 18:49:58
+Felix Resumir,Loreto Bodrogi,Brew've Been Served,2014-01-17 12:34:01,2014-01-17 12:36:51
+Gustav Cazar,Stenig Fusil,Brew've Been Served,2014-01-16 12:18:01,2014-01-16 12:20:42
+Gustav Cazar,Lidelse Dedos,Brew've Been Served,2014-01-18 13:31:01,2014-01-18 13:31:14
+Gustav Cazar,Willem Vasco-Pais,Brew've Been Served,2014-01-18 13:30:01,2014-01-18 13:33:48
+Hideki Cocinaro,Loreto Bodrogi,Brew've Been Served,2014-01-12 18:29:01,2014-01-12 18:30:05
+Hideki Cocinaro,Sven Flecha,Brew've Been Served,2014-01-13 18:49:01,2014-01-13 18:49:23
+Hideki Cocinaro,Sven Flecha,Brew've Been Served,2014-01-19 18:24:01,2014-01-19 18:25:19
+Inga Ferro,Felix Resumir,Brew've Been Served,2014-01-07 18:37:01,2014-01-07 18:37:05
+Inga Ferro,Edvard Vann,Brew've Been Served,2014-01-13 19:12:01,2014-01-13 19:12:55
+Inga Ferro,Nils Calixto,Brew've Been Served,2014-01-16 12:26:01,2014-01-16 12:26:42
+Ingrid Barranco,Loreto Bodrogi,Brew've Been Served,2014-01-17 12:22:01,2014-01-17 12:22:42
+Ingrid Barranco,Varja Lagos,Brew've Been Served,2014-01-17 12:21:01,2014-01-17 12:22:42
+Isia Vann,Stenig Fusil,Brew've Been Served,2014-01-07 11:56:01,2014-01-07 11:57:42
+Isia Vann,Brand Tempestad,Brew've Been Served,2014-01-13 19:17:01,2014-01-13 19:18:05
+Isia Vann,Elsa Orilla,Brew've Been Served,2014-01-15 19:02:01,2014-01-15 19:03:02
+Kanon Herrero,Willem Vasco-Pais,Brew've Been Served,2014-01-13 12:21:01,2014-01-13 12:21:42
+Lars Azada,Birgitta Frente,Brew've Been Served,2014-01-09 12:20:01,2014-01-09 12:21:42
+Lars Azada,Edvard Vann,Brew've Been Served,2014-01-15 12:18:01,2014-01-15 12:21:42
+Lidelse Dedos,Birgitta Frente,Brew've Been Served,2014-01-14 12:07:01,2014-01-14 12:08:42
+Lidelse Dedos,Elsa Orilla,Brew've Been Served,2014-01-15 18:51:01,2014-01-15 18:52:08
+Lidelse Dedos,Gustav Cazar,Brew've Been Served,2014-01-18 13:31:01,2014-01-18 13:31:14
+Lidelse Dedos,Willem Vasco-Pais,Brew've Been Served,2014-01-18 13:31:01,2014-01-18 13:31:14
+Linnea Bergen,Axel Calzas,Brew've Been Served,2014-01-09 19:06:01,2014-01-09 19:06:53
+Linnea Bergen,Minke Mies,Brew've Been Served,2014-01-09 19:05:01,2014-01-09 19:06:23
+Linnea Bergen,Orhan Strum,Brew've Been Served,2014-01-10 12:11:01,2014-01-10 12:13:42
+Linnea Bergen,Sven Flecha,Brew've Been Served,2014-01-10 12:14:01,2014-01-10 12:14:42
+Loreto Bodrogi,Sven Flecha,Brew've Been Served,2014-01-09 19:25:01,2014-01-09 19:26:18
+Loreto Bodrogi,Hideki Cocinaro,Brew've Been Served,2014-01-12 18:29:01,2014-01-12 18:30:05
+Loreto Bodrogi,Brand Tempestad,Brew've Been Served,2014-01-15 19:08:01,2014-01-15 19:09:05
+Loreto Bodrogi,Felix Resumir,Brew've Been Served,2014-01-17 12:34:01,2014-01-17 12:36:51
+Loreto Bodrogi,Ingrid Barranco,Brew've Been Served,2014-01-17 12:22:01,2014-01-17 12:22:42
+Loreto Bodrogi,Varja Lagos,Brew've Been Served,2014-01-17 12:22:01,2014-01-17 12:24:42
+Minke Mies,Sven Flecha,Brew've Been Served,2014-01-08 12:14:01,2014-01-08 12:17:42
+Minke Mies,Varja Lagos,Brew've Been Served,2014-01-08 18:42:01,2014-01-08 18:42:23
+Minke Mies,Axel Calzas,Brew've Been Served,2014-01-09 19:06:01,2014-01-09 19:06:23
+Minke Mies,Linnea Bergen,Brew've Been Served,2014-01-09 19:05:01,2014-01-09 19:06:23
+Minke Mies,Varja Lagos,Brew've Been Served,2014-01-17 18:55:01,2014-01-17 18:55:23
+Nils Calixto,Inga Ferro,Brew've Been Served,2014-01-16 12:26:01,2014-01-16 12:26:42
+Orhan Strum,Linnea Bergen,Brew've Been Served,2014-01-10 12:11:01,2014-01-10 12:13:42
+Stenig Fusil,Isia Vann,Brew've Been Served,2014-01-07 11:56:01,2014-01-07 11:57:42
+Stenig Fusil,Felix Resumir,Brew've Been Served,2014-01-11 18:52:01,2014-01-11 18:52:47
+Stenig Fusil,Sven Flecha,Brew've Been Served,2014-01-11 18:52:01,2014-01-11 18:52:47
+Stenig Fusil,Gustav Cazar,Brew've Been Served,2014-01-16 12:18:01,2014-01-16 12:20:42
+Stenig Fusil,Brand Tempestad,Brew've Been Served,2014-01-16 18:50:01,2014-01-16 18:50:23
+Stenig Fusil,Varja Lagos,Brew've Been Served,2014-01-18 18:16:01,2014-01-18 18:16:58
+Stenig Fusil,Varja Lagos,Brew've Been Served,2014-01-19 18:16:01,2014-01-19 18:16:47
+Sven Flecha,Willem Vasco-Pais,Brew've Been Served,2014-01-06 12:23:01,2014-01-06 12:25:42
+Sven Flecha,Minke Mies,Brew've Been Served,2014-01-08 12:14:01,2014-01-08 12:17:42
+Sven Flecha,Felix Resumir,Brew've Been Served,2014-01-08 19:23:01,2014-01-08 19:23:23
+Sven Flecha,Loreto Bodrogi,Brew've Been Served,2014-01-09 19:25:01,2014-01-09 19:26:18
+Sven Flecha,Axel Calzas,Brew've Been Served,2014-01-10 12:17:01,2014-01-10 12:17:42
+Sven Flecha,Linnea Bergen,Brew've Been Served,2014-01-10 12:14:01,2014-01-10 12:14:42
+Sven Flecha,Felix Resumir,Brew've Been Served,2014-01-11 18:52:01,2014-01-11 18:53:10
+Sven Flecha,Stenig Fusil,Brew've Been Served,2014-01-11 18:52:01,2014-01-11 18:52:47
+Sven Flecha,Hideki Cocinaro,Brew've Been Served,2014-01-13 18:49:01,2014-01-13 18:49:23
+Sven Flecha,Edvard Vann,Brew've Been Served,2014-01-14 18:42:01,2014-01-14 18:44:23
+Sven Flecha,Elsa Orilla,Brew've Been Served,2014-01-15 18:57:01,2014-01-15 18:59:23
+Sven Flecha,Edvard Vann,Brew've Been Served,2014-01-16 18:18:01,2014-01-16 18:19:23
+Sven Flecha,Hideki Cocinaro,Brew've Been Served,2014-01-19 18:24:01,2014-01-19 18:25:19
+Varja Lagos,Minke Mies,Brew've Been Served,2014-01-08 18:42:01,2014-01-08 18:42:23
+Varja Lagos,Ingrid Barranco,Brew've Been Served,2014-01-17 12:21:01,2014-01-17 12:22:42
+Varja Lagos,Loreto Bodrogi,Brew've Been Served,2014-01-17 12:22:01,2014-01-17 12:24:42
+Varja Lagos,Minke Mies,Brew've Been Served,2014-01-17 18:55:01,2014-01-17 18:55:23
+Varja Lagos,Stenig Fusil,Brew've Been Served,2014-01-18 18:16:01,2014-01-18 18:16:58
+Varja Lagos,Stenig Fusil,Brew've Been Served,2014-01-19 18:16:01,2014-01-19 18:16:47
+Willem Vasco-Pais,Sven Flecha,Brew've Been Served,2014-01-06 12:23:01,2014-01-06 12:25:42
+Willem Vasco-Pais,Kanon Herrero,Brew've Been Served,2014-01-13 12:21:01,2014-01-13 12:21:42
+Willem Vasco-Pais,Gustav Cazar,Brew've Been Served,2014-01-18 13:30:01,2014-01-18 13:33:48
+Willem Vasco-Pais,Lidelse Dedos,Brew've Been Served,2014-01-18 13:31:01,2014-01-18 13:31:14
+Edvard Vann,Loreto Bodrogi,Kronos Capital,2014-01-18 13:11:01,2014-01-18 13:14:04
+Loreto Bodrogi,Edvard Vann,Kronos Capital,2014-01-18 13:11:01,2014-01-18 13:14:04
+Adra Nubarron,Sven Flecha,Ahaggo Museum,2014-01-18 13:28:01,2014-01-18 13:31:38
+Isande Borrasca,Willem Vasco-Pais,Ahaggo Museum,2014-01-19 20:05:01,2014-01-19 20:07:17
+Sven Flecha,Adra Nubarron,Ahaggo Museum,2014-01-18 13:28:01,2014-01-18 13:31:38
+Willem Vasco-Pais,Isande Borrasca,Ahaggo Museum,2014-01-19 20:05:01,2014-01-19 20:07:17
+Axel Calzas,Lars Azada,Bean There Done That,2014-01-13 07:42:01,2014-01-13 07:43:22
+Axel Calzas,Vira Frente,Bean There Done That,2014-01-17 07:40:01,2014-01-17 07:42:49
+Birgitta Frente,Felix Balas,Bean There Done That,2014-01-13 07:06:01,2014-01-13 07:09:48
+Birgitta Frente,Lidelse Dedos,Bean There Done That,2014-01-13 07:05:01,2014-01-13 07:22:06
+Birgitta Frente,Vira Frente,Bean There Done That,2014-01-13 07:12:01,2014-01-13 07:15:49
+Felix Balas,Lars Azada,Bean There Done That,2014-01-10 07:42:01,2014-01-10 07:43:48
+Felix Balas,Vira Frente,Bean There Done That,2014-01-10 07:40:01,2014-01-10 07:40:49
+Felix Balas,Birgitta Frente,Bean There Done That,2014-01-13 07:06:01,2014-01-13 07:09:48
+Felix Balas,Lidelse Dedos,Bean There Done That,2014-01-13 07:06:01,2014-01-13 07:09:48
+Inga Ferro,Loreto Bodrogi,Bean There Done That,2014-01-17 11:07:01,2014-01-17 11:15:32
+Lars Azada,Felix Balas,Bean There Done That,2014-01-10 07:42:01,2014-01-10 07:43:48
+Lars Azada,Axel Calzas,Bean There Done That,2014-01-13 07:42:01,2014-01-13 07:43:22
+Lidelse Dedos,Birgitta Frente,Bean There Done That,2014-01-13 07:05:01,2014-01-13 07:22:06
+Lidelse Dedos,Felix Balas,Bean There Done That,2014-01-13 07:06:01,2014-01-13 07:09:48
+Lidelse Dedos,Vira Frente,Bean There Done That,2014-01-13 07:12:01,2014-01-13 07:15:49
+Loreto Bodrogi,Minke Mies,Bean There Done That,2014-01-08 11:20:01,2014-01-08 11:29:32
+Loreto Bodrogi,Inga Ferro,Bean There Done That,2014-01-17 11:07:01,2014-01-17 11:15:32
+Minke Mies,Loreto Bodrogi,Bean There Done That,2014-01-08 11:20:01,2014-01-08 11:29:32
+Vira Frente,Felix Balas,Bean There Done That,2014-01-10 07:40:01,2014-01-10 07:40:49
+Vira Frente,Birgitta Frente,Bean There Done That,2014-01-13 07:12:01,2014-01-13 07:15:49
+Vira Frente,Lidelse Dedos,Bean There Done That,2014-01-13 07:12:01,2014-01-13 07:15:49
+Vira Frente,Axel Calzas,Bean There Done That,2014-01-17 07:40:01,2014-01-17 07:42:49
+Axel Calzas,Gustav Cazar,White Building,2014-01-06 17:18:01,2014-01-06 17:25:27
+Axel Calzas,Lars Azada,White Building,2014-01-06 17:17:01,2014-01-06 17:25:27
+Axel Calzas,Lars Azada,White Building,2014-01-07 17:31:01,2014-01-07 17:35:27
+Axel Calzas,Gustav Cazar,White Building,2014-01-08 17:11:01,2014-01-08 17:19:57
+Axel Calzas,Lars Azada,White Building,2014-01-08 17:11:01,2014-01-08 17:17:28
+Axel Calzas,Gustav Cazar,White Building,2014-01-09 17:26:01,2014-01-09 17:33:57
+Axel Calzas,Lars Azada,White Building,2014-01-09 17:26:01,2014-01-09 17:29:28
+Axel Calzas,Elsa Orilla,White Building,2014-01-10 17:32:01,2014-01-10 17:37:41
+Axel Calzas,Linnea Bergen,White Building,2014-01-10 18:45:01,2014-01-10 18:45:31
+Axel Calzas,Gustav Cazar,White Building,2014-01-13 17:31:01,2014-01-13 17:36:57
+Axel Calzas,Lars Azada,White Building,2014-01-13 20:49:01,2014-01-13 20:50:13
+Axel Calzas,Gustav Cazar,White Building,2014-01-14 17:20:01,2014-01-14 17:25:27
+Axel Calzas,Lars Azada,White Building,2014-01-14 17:21:01,2014-01-14 17:25:27
+Axel Calzas,Lars Azada,White Building,2014-01-15 17:17:01,2014-01-15 17:17:27
+Axel Calzas,Gustav Cazar,White Building,2014-01-15 20:32:01,2014-01-15 20:33:13
+Axel Calzas,Felix Balas,White Building,2014-01-16 17:29:01,2014-01-16 17:29:27
+Axel Calzas,Gustav Cazar,White Building,2014-01-16 17:19:01,2014-01-16 17:29:27
+Axel Calzas,Lars Azada,White Building,2014-01-16 17:20:01,2014-01-16 17:29:27
+Axel Calzas,Elsa Orilla,White Building,2014-01-17 17:32:01,2014-01-17 17:32:27
+Axel Calzas,Gustav Cazar,White Building,2014-01-17 17:22:01,2014-01-17 17:22:57
+Axel Calzas,Lars Azada,White Building,2014-01-17 17:22:01,2014-01-17 17:22:28
+Axel Calzas,Felix Balas,White Building,2014-01-19 19:47:01,2014-01-19 19:47:42
+Birgitta Frente,Elsa Orilla,White Building,2014-01-10 19:12:01,2014-01-10 19:12:30
+Birgitta Frente,Felix Balas,White Building,2014-01-10 19:03:01,2014-01-10 19:03:45
+Birgitta Frente,Gustav Cazar,White Building,2014-01-10 19:11:01,2014-01-10 19:12:00
+Birgitta Frente,Kanon Herrero,White Building,2014-01-10 19:03:01,2014-01-10 19:04:01
+Birgitta Frente,Lucas Alcazar,White Building,2014-01-10 19:03:01,2014-01-10 19:12:30
+Birgitta Frente,Nils Calixto,White Building,2014-01-10 19:10:01,2014-01-10 19:12:30
+Birgitta Frente,Vira Frente,White Building,2014-01-10 19:07:01,2014-01-10 19:08:14
+Elsa Orilla,Felix Balas,White Building,2014-01-06 17:36:01,2014-01-06 17:41:41
+Elsa Orilla,Felix Balas,White Building,2014-01-07 17:44:01,2014-01-07 17:50:41
+Elsa Orilla,Lars Azada,White Building,2014-01-07 17:41:01,2014-01-07 17:41:28
+Elsa Orilla,Felix Balas,White Building,2014-01-09 17:47:01,2014-01-09 17:54:11
+Elsa Orilla,Axel Calzas,White Building,2014-01-10 17:32:01,2014-01-10 17:37:41
+Elsa Orilla,Birgitta Frente,White Building,2014-01-10 19:12:01,2014-01-10 19:12:30
+Elsa Orilla,Lucas Alcazar,White Building,2014-01-10 19:12:01,2014-01-10 19:12:50
+Elsa Orilla,Nils Calixto,White Building,2014-01-10 19:12:01,2014-01-10 19:12:54
+Elsa Orilla,Gustav Cazar,White Building,2014-01-13 17:26:01,2014-01-13 17:26:41
+Elsa Orilla,Lars Azada,White Building,2014-01-13 17:18:01,2014-01-13 17:26:41
+Elsa Orilla,Felix Balas,White Building,2014-01-14 17:32:01,2014-01-14 17:40:11
+Elsa Orilla,Gustav Cazar,White Building,2014-01-15 17:35:01,2014-01-15 17:39:59
+Elsa Orilla,Lars Azada,White Building,2014-01-15 19:58:01,2014-01-15 20:00:13
+Elsa Orilla,Axel Calzas,White Building,2014-01-17 17:32:01,2014-01-17 17:32:27
+Felix Balas,Elsa Orilla,White Building,2014-01-06 17:36:01,2014-01-06 17:41:41
+Felix Balas,Elsa Orilla,White Building,2014-01-07 17:44:01,2014-01-07 17:50:41
+Felix Balas,Elsa Orilla,White Building,2014-01-09 17:47:01,2014-01-09 17:54:11
+Felix Balas,Birgitta Frente,White Building,2014-01-10 19:03:01,2014-01-10 19:03:45
+Felix Balas,Kanon Herrero,White Building,2014-01-10 19:03:01,2014-01-10 19:03:45
+Felix Balas,Lucas Alcazar,White Building,2014-01-10 19:03:01,2014-01-10 19:03:45
+Felix Balas,Elsa Orilla,White Building,2014-01-14 17:32:01,2014-01-14 17:40:11
+Felix Balas,Gustav Cazar,White Building,2014-01-14 17:29:01,2014-01-14 17:30:57
+Felix Balas,Lars Azada,White Building,2014-01-14 17:29:01,2014-01-14 17:31:28
+Felix Balas,Axel Calzas,White Building,2014-01-16 17:29:01,2014-01-16 17:29:27
+Felix Balas,Gustav Cazar,White Building,2014-01-16 17:29:01,2014-01-16 17:29:57
+Felix Balas,Lars Azada,White Building,2014-01-16 17:29:01,2014-01-16 17:30:28
+Felix Balas,Lars Azada,White Building,2014-01-16 20:18:01,2014-01-16 20:20:28
+Felix Balas,Axel Calzas,White Building,2014-01-19 19:47:01,2014-01-19 19:47:42
+Gustav Cazar,Axel Calzas,White Building,2014-01-06 17:18:01,2014-01-06 17:25:27
+Gustav Cazar,Lars Azada,White Building,2014-01-06 17:18:01,2014-01-06 17:27:28
+Gustav Cazar,Axel Calzas,White Building,2014-01-08 17:11:01,2014-01-08 17:19:57
+Gustav Cazar,Lars Azada,White Building,2014-01-08 17:10:00,2014-01-08 17:17:28
+Gustav Cazar,Axel Calzas,White Building,2014-01-09 17:26:01,2014-01-09 17:33:57
+Gustav Cazar,Lars Azada,White Building,2014-01-09 17:23:01,2014-01-09 17:29:28
+Gustav Cazar,Birgitta Frente,White Building,2014-01-10 19:11:01,2014-01-10 19:12:00
+Gustav Cazar,Lucas Alcazar,White Building,2014-01-10 19:11:01,2014-01-10 19:12:00
+Gustav Cazar,Nils Calixto,White Building,2014-01-10 19:11:01,2014-01-10 19:12:00
+Gustav Cazar,Axel Calzas,White Building,2014-01-13 17:31:01,2014-01-13 17:36:57
+Gustav Cazar,Elsa Orilla,White Building,2014-01-13 17:26:01,2014-01-13 17:26:41
+Gustav Cazar,Lars Azada,White Building,2014-01-13 17:26:01,2014-01-13 17:28:28
+Gustav Cazar,Axel Calzas,White Building,2014-01-14 17:20:01,2014-01-14 17:25:27
+Gustav Cazar,Felix Balas,White Building,2014-01-14 17:29:01,2014-01-14 17:30:57
+Gustav Cazar,Lars Azada,White Building,2014-01-14 17:21:01,2014-01-14 17:30:57
+Gustav Cazar,Elsa Orilla,White Building,2014-01-15 17:35:01,2014-01-15 17:39:59
+Gustav Cazar,Axel Calzas,White Building,2014-01-15 20:32:01,2014-01-15 20:33:13
+Gustav Cazar,Axel Calzas,White Building,2014-01-16 17:19:01,2014-01-16 17:29:27
+Gustav Cazar,Felix Balas,White Building,2014-01-16 17:29:01,2014-01-16 17:29:57
+Gustav Cazar,Lars Azada,White Building,2014-01-16 17:20:01,2014-01-16 17:29:57
+Gustav Cazar,Axel Calzas,White Building,2014-01-17 17:22:01,2014-01-17 17:22:57
+Gustav Cazar,Lars Azada,White Building,2014-01-17 17:12:01,2014-01-17 17:22:28
+Gustav Cazar,Lars Azada,White Building,2014-01-19 20:25:01,2014-01-19 20:25:10
+Isak Baza,Kanon Herrero,White Building,2014-01-10 18:54:01,2014-01-10 19:02:25
+Isak Baza,Lidelse Dedos,White Building,2014-01-10 18:54:01,2014-01-10 18:59:30
+Isak Baza,Lucas Alcazar,White Building,2014-01-10 19:00:01,2014-01-10 19:02:25
+Kanon Herrero,Birgitta Frente,White Building,2014-01-10 19:03:01,2014-01-10 19:04:01
+Kanon Herrero,Felix Balas,White Building,2014-01-10 19:03:01,2014-01-10 19:03:45
+Kanon Herrero,Isak Baza,White Building,2014-01-10 18:54:01,2014-01-10 19:02:25
+Kanon Herrero,Lidelse Dedos,White Building,2014-01-10 18:53:01,2014-01-10 18:59:30
+Kanon Herrero,Lucas Alcazar,White Building,2014-01-10 19:00:01,2014-01-10 19:04:01
+Lars Azada,Axel Calzas,White Building,2014-01-06 17:17:01,2014-01-06 17:25:27
+Lars Azada,Gustav Cazar,White Building,2014-01-06 17:18:01,2014-01-06 17:27:28
+Lars Azada,Axel Calzas,White Building,2014-01-07 17:31:01,2014-01-07 17:35:27
+Lars Azada,Elsa Orilla,White Building,2014-01-07 17:41:01,2014-01-07 17:41:28
+Lars Azada,Axel Calzas,White Building,2014-01-08 17:11:01,2014-01-08 17:17:28
+Lars Azada,Gustav Cazar,White Building,2014-01-08 17:10:00,2014-01-08 17:17:28
+Lars Azada,Axel Calzas,White Building,2014-01-09 17:26:01,2014-01-09 17:29:28
+Lars Azada,Gustav Cazar,White Building,2014-01-09 17:23:01,2014-01-09 17:29:28
+Lars Azada,Elsa Orilla,White Building,2014-01-13 17:18:01,2014-01-13 17:26:41
+Lars Azada,Gustav Cazar,White Building,2014-01-13 17:26:01,2014-01-13 17:28:28
+Lars Azada,Axel Calzas,White Building,2014-01-13 20:49:01,2014-01-13 20:50:13
+Lars Azada,Axel Calzas,White Building,2014-01-14 17:21:01,2014-01-14 17:25:27
+Lars Azada,Felix Balas,White Building,2014-01-14 17:29:01,2014-01-14 17:31:28
+Lars Azada,Gustav Cazar,White Building,2014-01-14 17:21:01,2014-01-14 17:30:57
+Lars Azada,Axel Calzas,White Building,2014-01-15 17:17:01,2014-01-15 17:17:27
+Lars Azada,Elsa Orilla,White Building,2014-01-15 19:58:01,2014-01-15 20:00:13
+Lars Azada,Axel Calzas,White Building,2014-01-16 17:20:01,2014-01-16 17:29:27
+Lars Azada,Felix Balas,White Building,2014-01-16 17:29:01,2014-01-16 17:30:28
+Lars Azada,Gustav Cazar,White Building,2014-01-16 17:20:01,2014-01-16 17:29:57
+Lars Azada,Felix Balas,White Building,2014-01-16 20:18:01,2014-01-16 20:20:28
+Lars Azada,Axel Calzas,White Building,2014-01-17 17:22:01,2014-01-17 17:22:28
+Lars Azada,Gustav Cazar,White Building,2014-01-17 17:12:01,2014-01-17 17:22:28
+Lars Azada,Gustav Cazar,White Building,2014-01-19 20:25:01,2014-01-19 20:25:10
+Lidelse Dedos,Isak Baza,White Building,2014-01-10 18:54:01,2014-01-10 18:59:30
+Lidelse Dedos,Kanon Herrero,White Building,2014-01-10 18:53:01,2014-01-10 18:59:30
+Lidelse Dedos,Linnea Bergen,White Building,2014-01-10 18:50:01,2014-01-10 18:51:01
+Linnea Bergen,Axel Calzas,White Building,2014-01-10 18:45:01,2014-01-10 18:45:31
+Linnea Bergen,Lidelse Dedos,White Building,2014-01-10 18:50:01,2014-01-10 18:51:01
+Lucas Alcazar,Birgitta Frente,White Building,2014-01-10 19:03:01,2014-01-10 19:12:30
+Lucas Alcazar,Elsa Orilla,White Building,2014-01-10 19:12:01,2014-01-10 19:12:50
+Lucas Alcazar,Felix Balas,White Building,2014-01-10 19:03:01,2014-01-10 19:03:45
+Lucas Alcazar,Gustav Cazar,White Building,2014-01-10 19:11:01,2014-01-10 19:12:00
+Lucas Alcazar,Isak Baza,White Building,2014-01-10 19:00:01,2014-01-10 19:02:25
+Lucas Alcazar,Kanon Herrero,White Building,2014-01-10 19:00:01,2014-01-10 19:04:01
+Lucas Alcazar,Nils Calixto,White Building,2014-01-10 19:10:01,2014-01-10 19:12:50
+Lucas Alcazar,Vira Frente,White Building,2014-01-10 19:07:01,2014-01-10 19:08:14
+Nils Calixto,Birgitta Frente,White Building,2014-01-10 19:10:01,2014-01-10 19:12:30
+Nils Calixto,Elsa Orilla,White Building,2014-01-10 19:12:01,2014-01-10 19:12:54
+Nils Calixto,Gustav Cazar,White Building,2014-01-10 19:11:01,2014-01-10 19:12:00
+Nils Calixto,Lucas Alcazar,White Building,2014-01-10 19:10:01,2014-01-10 19:12:50
+Vira Frente,Birgitta Frente,White Building,2014-01-10 19:07:01,2014-01-10 19:08:14
+Vira Frente,Lucas Alcazar,White Building,2014-01-10 19:07:01,2014-01-10 19:08:14
+Bertrand Ovan,Linnea Bergen,Coffee Cameleon,2014-01-10 07:06:01,2014-01-10 07:06:14
+Bertrand Ovan,Linnea Bergen,Coffee Cameleon,2014-01-15 07:31:36,2014-01-15 07:32:42
+Kanon Herrero,Linnea Bergen,Coffee Cameleon,2014-01-13 07:53:01,2014-01-13 07:53:42
+Kanon Herrero,Minke Mies,Coffee Cameleon,2014-01-17 07:20:01,2014-01-17 07:22:25
+Kanon Herrero,Stenig Fusil,Coffee Cameleon,2014-01-17 07:20:01,2014-01-17 07:22:42
+Linnea Bergen,Bertrand Ovan,Coffee Cameleon,2014-01-10 07:06:01,2014-01-10 07:06:14
+Linnea Bergen,Kanon Herrero,Coffee Cameleon,2014-01-13 07:53:01,2014-01-13 07:53:42
+Linnea Bergen,Bertrand Ovan,Coffee Cameleon,2014-01-15 07:31:36,2014-01-15 07:32:42
+Minke Mies,Kanon Herrero,Coffee Cameleon,2014-01-17 07:20:01,2014-01-17 07:22:25
+Minke Mies,Stenig Fusil,Coffee Cameleon,2014-01-17 07:18:01,2014-01-17 07:22:25
+Stenig Fusil,Kanon Herrero,Coffee Cameleon,2014-01-17 07:20:01,2014-01-17 07:22:42
+Stenig Fusil,Minke Mies,Coffee Cameleon,2014-01-17 07:18:01,2014-01-17 07:22:25
+Birgitta Frente,Hideki Cocinaro,Hallowed Grounds,2014-01-06 07:11:01,2014-01-06 07:11:16
+Birgitta Frente,Kare Orilla,Hallowed Grounds,2014-01-08 07:20:01,2014-01-08 07:21:26
+Birgitta Frente,Hideki Cocinaro,Hallowed Grounds,2014-01-10 07:29:01,2014-01-10 07:32:46
+Birgitta Frente,Lidelse Dedos,Hallowed Grounds,2014-01-14 07:43:01,2014-01-14 07:44:46
+Birgitta Frente,Hideki Cocinaro,Hallowed Grounds,2014-01-16 07:26:01,2014-01-16 07:27:46
+Birgitta Frente,Lucas Alcazar,Hallowed Grounds,2014-01-16 07:27:01,2014-01-16 07:27:46
+Birgitta Frente,Marin Onda,Hallowed Grounds,2014-01-16 07:24:01,2014-01-16 07:26:40
+Gustav Cazar,Nils Calixto,Hallowed Grounds,2014-01-18 15:58:01,2014-01-18 15:59:59
+Hennie Osvaldo,Lucas Alcazar,Hallowed Grounds,2014-01-09 07:43:01,2014-01-09 07:44:14
+Hennie Osvaldo,Marin Onda,Hallowed Grounds,2014-01-13 07:14:01,2014-01-13 07:14:46
+Hennie Osvaldo,Nils Calixto,Hallowed Grounds,2014-01-16 07:48:01,2014-01-16 07:50:04
+Hideki Cocinaro,Birgitta Frente,Hallowed Grounds,2014-01-06 07:11:01,2014-01-06 07:11:16
+Hideki Cocinaro,Lucas Alcazar,Hallowed Grounds,2014-01-07 07:14:01,2014-01-07 07:14:16
+Hideki Cocinaro,Lidelse Dedos,Hallowed Grounds,2014-01-08 07:12:01,2014-01-08 07:15:46
+Hideki Cocinaro,Birgitta Frente,Hallowed Grounds,2014-01-10 07:29:01,2014-01-10 07:32:46
+Hideki Cocinaro,Lucas Alcazar,Hallowed Grounds,2014-01-14 07:15:01,2014-01-14 07:16:14
+Hideki Cocinaro,Lucas Alcazar,Hallowed Grounds,2014-01-15 07:11:01,2014-01-15 07:11:14
+Hideki Cocinaro,Birgitta Frente,Hallowed Grounds,2014-01-16 07:26:01,2014-01-16 07:27:46
+Hideki Cocinaro,Lucas Alcazar,Hallowed Grounds,2014-01-16 07:27:01,2014-01-16 07:28:14
+Hideki Cocinaro,Marin Onda,Hallowed Grounds,2014-01-16 07:26:01,2014-01-16 07:26:40
+Kare Orilla,Lucas Alcazar,Hallowed Grounds,2014-01-06 07:36:01,2014-01-06 07:36:26
+Kare Orilla,Nils Calixto,Hallowed Grounds,2014-01-07 07:22:01,2014-01-07 07:22:04
+Kare Orilla,Birgitta Frente,Hallowed Grounds,2014-01-08 07:20:01,2014-01-08 07:21:26
+Kare Orilla,Sten Sanjorge Jr.,Hallowed Grounds,2014-01-17 07:33:01,2014-01-17 07:35:26
+Lidelse Dedos,Hideki Cocinaro,Hallowed Grounds,2014-01-08 07:12:01,2014-01-08 07:15:46
+Lidelse Dedos,Birgitta Frente,Hallowed Grounds,2014-01-14 07:43:01,2014-01-14 07:44:46
+Lidelse Dedos,Sten Sanjorge Jr.,Hallowed Grounds,2014-01-17 07:31:01,2014-01-17 07:31:46
+Lucas Alcazar,Kare Orilla,Hallowed Grounds,2014-01-06 07:36:01,2014-01-06 07:36:26
+Lucas Alcazar,Hideki Cocinaro,Hallowed Grounds,2014-01-07 07:14:01,2014-01-07 07:14:16
+Lucas Alcazar,Hennie Osvaldo,Hallowed Grounds,2014-01-09 07:43:01,2014-01-09 07:44:14
+Lucas Alcazar,Marin Onda,Hallowed Grounds,2014-01-13 07:16:01,2014-01-13 07:17:14
+Lucas Alcazar,Hideki Cocinaro,Hallowed Grounds,2014-01-14 07:15:01,2014-01-14 07:16:14
+Lucas Alcazar,Hideki Cocinaro,Hallowed Grounds,2014-01-15 07:11:01,2014-01-15 07:11:14
+Lucas Alcazar,Birgitta Frente,Hallowed Grounds,2014-01-16 07:27:01,2014-01-16 07:27:46
+Lucas Alcazar,Hideki Cocinaro,Hallowed Grounds,2014-01-16 07:27:01,2014-01-16 07:28:14
+Lucas Alcazar,Marin Onda,Hallowed Grounds,2014-01-17 07:02:01,2014-01-17 07:02:14
+Marin Onda,Nils Calixto,Hallowed Grounds,2014-01-06 07:20:01,2014-01-06 07:22:04
+Marin Onda,Hennie Osvaldo,Hallowed Grounds,2014-01-13 07:14:01,2014-01-13 07:14:46
+Marin Onda,Lucas Alcazar,Hallowed Grounds,2014-01-13 07:16:01,2014-01-13 07:17:14
+Marin Onda,Birgitta Frente,Hallowed Grounds,2014-01-16 07:24:01,2014-01-16 07:26:40
+Marin Onda,Hideki Cocinaro,Hallowed Grounds,2014-01-16 07:26:01,2014-01-16 07:26:40
+Marin Onda,Lucas Alcazar,Hallowed Grounds,2014-01-17 07:02:01,2014-01-17 07:02:14
+Nils Calixto,Marin Onda,Hallowed Grounds,2014-01-06 07:20:01,2014-01-06 07:22:04
+Nils Calixto,Kare Orilla,Hallowed Grounds,2014-01-07 07:22:01,2014-01-07 07:22:04
+Nils Calixto,Hennie Osvaldo,Hallowed Grounds,2014-01-16 07:48:01,2014-01-16 07:50:04
+Nils Calixto,Gustav Cazar,Hallowed Grounds,2014-01-18 15:58:01,2014-01-18 15:59:59
+Sten Sanjorge Jr.,Kare Orilla,Hallowed Grounds,2014-01-17 07:33:01,2014-01-17 07:35:26
+Sten Sanjorge Jr.,Lidelse Dedos,Hallowed Grounds,2014-01-17 07:31:01,2014-01-17 07:31:46
+Brand Tempestad,Elsa Orilla,Chostus Hotel,2014-01-17 11:20:01,2014-01-17 11:22:07
+Elsa Orilla,Brand Tempestad,Chostus Hotel,2014-01-17 11:20:01,2014-01-17 11:22:07
+Edvard Vann,Hideki Cocinaro,Sannan Park,2014-01-06 17:14:01,2014-01-06 17:18:41
+Edvard Vann,Stenig Fusil,Sannan Park,2014-01-07 17:30:01,2014-01-07 17:33:46
+Edvard Vann,Hideki Cocinaro,Sannan Park,2014-01-08 17:32:01,2014-01-08 17:34:41
+Edvard Vann,Hideki Cocinaro,Sannan Park,2014-01-09 17:19:01,2014-01-09 17:20:41
+Edvard Vann,Stenig Fusil,Sannan Park,2014-01-11 19:37:01,2014-01-11 19:38:47
+Edvard Vann,Hideki Cocinaro,Sannan Park,2014-01-14 20:05:01,2014-01-14 20:05:19
+Edvard Vann,Hideki Cocinaro,Sannan Park,2014-01-15 17:33:01,2014-01-15 17:38:46
+Edvard Vann,Stenig Fusil,Sannan Park,2014-01-15 17:37:01,2014-01-15 17:38:46
+Edvard Vann,Stenig Fusil,Sannan Park,2014-01-18 19:43:01,2014-01-18 19:45:47
+Hideki Cocinaro,Edvard Vann,Sannan Park,2014-01-06 17:14:01,2014-01-06 17:18:41
+Hideki Cocinaro,Edvard Vann,Sannan Park,2014-01-08 17:32:01,2014-01-08 17:34:41
+Hideki Cocinaro,Edvard Vann,Sannan Park,2014-01-09 17:19:01,2014-01-09 17:20:41
+Hideki Cocinaro,Stenig Fusil,Sannan Park,2014-01-10 17:19:01,2014-01-10 17:20:41
+Hideki Cocinaro,Stenig Fusil,Sannan Park,2014-01-14 17:24:01,2014-01-14 17:26:53
+Hideki Cocinaro,Edvard Vann,Sannan Park,2014-01-14 20:05:01,2014-01-14 20:05:19
+Hideki Cocinaro,Edvard Vann,Sannan Park,2014-01-15 17:33:01,2014-01-15 17:38:46
+Hideki Cocinaro,Stenig Fusil,Sannan Park,2014-01-15 17:37:01,2014-01-15 17:39:41
+Stenig Fusil,Edvard Vann,Sannan Park,2014-01-07 17:30:01,2014-01-07 17:33:46
+Stenig Fusil,Hideki Cocinaro,Sannan Park,2014-01-10 17:19:01,2014-01-10 17:20:41
+Stenig Fusil,Edvard Vann,Sannan Park,2014-01-11 19:37:01,2014-01-11 19:38:47
+Stenig Fusil,Hideki Cocinaro,Sannan Park,2014-01-14 17:24:01,2014-01-14 17:26:53
+Stenig Fusil,Edvard Vann,Sannan Park,2014-01-15 17:37:01,2014-01-15 17:38:46
+Stenig Fusil,Hideki Cocinaro,Sannan Park,2014-01-15 17:37:01,2014-01-15 17:39:41
+Stenig Fusil,Edvard Vann,Sannan Park,2014-01-18 19:43:01,2014-01-18 19:45:47
+Hennie Osvaldo,Minke Mies,Frank's Fuel,2014-01-16 11:15:01,2014-01-16 11:22:02
+Minke Mies,Hennie Osvaldo,Frank's Fuel,2014-01-16 11:15:01,2014-01-16 11:22:02
+Hennie Osvaldo,Inga Ferro,Frydos Autosupply n' More,2014-01-16 20:31:01,2014-01-16 20:32:45
+Inga Ferro,Loreto Bodrogi,Frydos Autosupply n' More,2014-01-07 17:29:01,2014-01-07 17:30:46
+Inga Ferro,Isia Vann,Frydos Autosupply n' More,2014-01-08 17:27:01,2014-01-08 17:31:46
+Inga Ferro,Isia Vann,Frydos Autosupply n' More,2014-01-10 17:29:01,2014-01-10 17:32:46
+Inga Ferro,Loreto Bodrogi,Frydos Autosupply n' More,2014-01-10 17:28:01,2014-01-10 17:29:46
+Inga Ferro,Loreto Bodrogi,Frydos Autosupply n' More,2014-01-10 20:31:01,2014-01-10 20:31:13
+Inga Ferro,Isia Vann,Frydos Autosupply n' More,2014-01-15 20:05:01,2014-01-15 20:06:05
+Inga Ferro,Isia Vann,Frydos Autosupply n' More,2014-01-16 17:28:01,2014-01-16 17:30:46
+Inga Ferro,Hennie Osvaldo,Frydos Autosupply n' More,2014-01-16 20:31:01,2014-01-16 20:32:45
+Isia Vann,Inga Ferro,Frydos Autosupply n' More,2014-01-08 17:27:01,2014-01-08 17:31:46
+Isia Vann,Loreto Bodrogi,Frydos Autosupply n' More,2014-01-09 17:33:01,2014-01-09 17:33:46
+Isia Vann,Inga Ferro,Frydos Autosupply n' More,2014-01-10 17:29:01,2014-01-10 17:32:46
+Isia Vann,Loreto Bodrogi,Frydos Autosupply n' More,2014-01-10 17:29:01,2014-01-10 17:29:46
+Isia Vann,Inga Ferro,Frydos Autosupply n' More,2014-01-15 20:05:01,2014-01-15 20:06:05
+Isia Vann,Inga Ferro,Frydos Autosupply n' More,2014-01-16 17:28:01,2014-01-16 17:30:46
+Isia Vann,Loreto Bodrogi,Frydos Autosupply n' More,2014-01-18 20:15:01,2014-01-18 20:15:45
+Loreto Bodrogi,Inga Ferro,Frydos Autosupply n' More,2014-01-07 17:29:01,2014-01-07 17:30:46
+Loreto Bodrogi,Isia Vann,Frydos Autosupply n' More,2014-01-09 17:33:01,2014-01-09 17:33:46
+Loreto Bodrogi,Inga Ferro,Frydos Autosupply n' More,2014-01-10 17:28:01,2014-01-10 17:29:46
+Loreto Bodrogi,Isia Vann,Frydos Autosupply n' More,2014-01-10 17:29:01,2014-01-10 17:29:46
+Loreto Bodrogi,Inga Ferro,Frydos Autosupply n' More,2014-01-10 20:31:01,2014-01-10 20:31:13
+Loreto Bodrogi,Isia Vann,Frydos Autosupply n' More,2014-01-18 20:15:01,2014-01-18 20:15:45
+Isak Baza,Orhan Strum,Jack's Magic Beans,2014-01-09 07:12:01,2014-01-09 07:12:24
+Orhan Strum,Isak Baza,Jack's Magic Beans,2014-01-09 07:12:01,2014-01-09 07:12:24
+Isande Borrasca,Marin Onda,Taxiarchon Park,2014-01-17 20:10:01,2014-01-17 20:12:47
+Kare Orilla,Orhan Strum,Taxiarchon Park,2014-01-07 20:55:01,2014-01-07 20:57:21
+Kare Orilla,Marin Onda,Taxiarchon Park,2014-01-10 17:30:01,2014-01-10 17:34:51
+Marin Onda,Orhan Strum,Taxiarchon Park,2014-01-08 17:48:01,2014-01-08 17:53:34
+Marin Onda,Orhan Strum,Taxiarchon Park,2014-01-09 21:24:01,2014-01-09 21:26:02
+Marin Onda,Kare Orilla,Taxiarchon Park,2014-01-10 17:30:01,2014-01-10 17:34:51
+Marin Onda,Isande Borrasca,Taxiarchon Park,2014-01-17 20:10:01,2014-01-17 20:12:47
+Orhan Strum,Kare Orilla,Taxiarchon Park,2014-01-07 20:55:01,2014-01-07 20:57:21
+Orhan Strum,Marin Onda,Taxiarchon Park,2014-01-08 17:48:01,2014-01-08 17:53:34
+Orhan Strum,Marin Onda,Taxiarchon Park,2014-01-09 21:24:01,2014-01-09 21:26:02
+nan nan,nan nan,Carlyle Chemical Inc.,2014-01-07 08:50:54,2014-01-07 08:54:02
+nan nan,nan nan,Carlyle Chemical Inc.,2014-01-09 08:46:00,2014-01-09 08:47:01
+nan nan,nan nan,Carlyle Chemical Inc.,2014-01-16 08:49:14,2014-01-16 08:52:43
